@@ -1,41 +1,57 @@
+<p align="center">
+<img src="https://images.unsplash.com/photo-1504384308090-c894fdcc538d?auto=format&fit=crop&w=1200&q=80" width="100%" />
+</p>
+
 <h1 align="center">Hi 👋, I'm Mohit Chandra Fulara</h1>
 <h3 align="center">MCA Student • AI & ML Developer</h3>
 
 <p align="center">
-Working on practical Machine Learning and RAG-based AI systems.
+Working on practical AI systems using Machine Learning, RAG, and LLMs.
 </p>
 
 ---
 
 ### 🧠 About
 
-- Focused on building and deploying **AI & ML models**
-- Interested in **LLMs, RAG pipelines, and anomaly detection**
-- Prefer hands-on work: **data processing → model logic → deployment**
+I am an MCA student focused on building real-world AI and ML solutions.  
+I enjoy working on the complete pipeline — from data processing and model logic to deployment.
 
 ---
 
-### 🚀 My Core Projects
-
-| Project | Description |
-|--------|------------|
-| 🛡️ **ML-Based Intrusion Detection System** | Detects abnormal and suspicious network activity |
-| 📜 **AI-Based Security Log Analyzer (RAG + Vector Search)** | Uses embeddings + FAISS for intelligent log analysis |
-| 📄 **AI-Based Legal Document Summarizer (RAG + LLM)** | Extracts summaries, risks, and obligations from legal text |
-
----
-
-### 🛠️ Technical Skills
+### 🛠️ Languages & Tools
 
 <p>
-<img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch,sklearn,pandas,numpy,flask,fastapi,streamlit,git,docker,jupyter,aws" />
+<img src="https://skillicons.dev/icons?i=python,cpp,sql,tensorflow,pytorch,sklearn,pandas,numpy,flask,fastapi,streamlit,git,docker,jupyter,aws" />
 </p>
 
-**AI / ML Concepts:**  
-RAG • LLM • NLP • Deep Learning • Feature Engineering • Model Evaluation • Vector Search
+---
 
-**Tools & Platforms:**  
-FAISS • HuggingFace • Matplotlib • Seaborn • SQL
+### 🚀 Projects
+
+**ML-Based Intrusion Detection System**
+
+- Detects abnormal and suspicious network activity  
+- Performs data preprocessing and feature engineering for security logs  
+- Identifies suspicious patterns using anomaly detection techniques  
+- Supports real-time monitoring for abnormal behavior  
+
+---
+
+**AI-Based Security Log Analyzer (RAG + Vector Search)**
+
+- Queries large-scale security logs using embeddings and FAISS  
+- Implements RAG pipelines for intelligent log retrieval  
+- Automates anomaly detection and suspicious pattern identification  
+- Improves security analysis efficiency through AI-based insights  
+
+---
+
+**AI-Based Legal Document Summarizer (RAG + LLM)**
+
+- Extracts executive summaries, key risks, and contractual obligations  
+- Uses vector embeddings and similarity search for context-aware analysis  
+- Handles structured and unstructured legal documents  
+- Automates document review and risk identification  
 
 ---
 
@@ -51,11 +67,11 @@ FAISS • HuggingFace • Matplotlib • Seaborn • SQL
 ### 🌐 Connect
 
 📍 Uttarakhand, India  
-📧 **mohitfulara2005@gmail.com**  
-🔗 **linkedin.com/in/mohit-chandra-fulara-a20657280**
+📧 mohitfulara2005@gmail.com  
+🔗 linkedin.com/in/mohit-chandra-fulara-a20657280
 
 ---
 
 <p align="center">
-Learning by building real AI & ML systems.
+Learning by building practical AI & ML systems.
 </p>
