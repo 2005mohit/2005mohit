@@ -14,18 +14,21 @@ Working on practical AI systems using Machine Learning, RAG, and LLMs.
 ### 🛠️ Languages & Tools
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=python,cpp,tensorflow,pytorch,sklearn,pandas,numpy,flask,fastapi,streamlit,git,docker,aws&perline=14" />
+<img src="https://skillicons.dev/icons?i=python,cpp,tensorflow,pytorch,sklearn,pandas,numpy,flask,fastapi,streamlit,git,docker,aws&perline=20" />
 </p>
 
 ---
 
 ### 🧩 AI / ML Concepts
 
+<p align="center">
 <img src="https://img.shields.io/badge/RAG-blue?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/LLM-black?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/NLP-orange?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/Deep_Learning-red?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/Vector_Search-green?style=for-the-badge"/>
+</p>
+
 
 ---
 
