@@ -2,7 +2,7 @@
 <img src="https://github.com/2005mohit/assets/blob/main/2e4c9031-43bf-4bde-8dc0-0015c4f5cac9.png?raw=true" width="100%" />
 </p>
 
-<h1 align="center">Hi 👋, I'm Mohit Chandra Fulara</h1>
+<h1 align="center">Hi , I'm Mohit Chandra Fulara</h1>
 <h3 align="center">MCA Student • AI & ML Developer</h3>
 
 <p align="center">
@@ -14,7 +14,7 @@ Working on practical AI systems using Machine Learning, RAG, and LLMs.
 ### 🛠️ Languages & Tools
 
 <p align="left">
-<img src="https://skillicons.dev/icons?i=python,cpp,tensorflow,pytorch,sklearn,pandas,numpy,flask,fastapi,streamlit,git,docker,aws&perline=10" />
+<img src="https://skillicons.dev/icons?i=python,cpp,tensorflow,pytorch,sklearn,pandas,numpy,flask,fastapi,streamlit,git,docker,aws&perline=5" />
 </p>
 
 
