@@ -1,5 +1,5 @@
 <p align="center">
-<img src="https://images.unsplash.com/photo-1504384308090-c894fdcc538d?auto=format&fit=crop&w=1200&q=80" width="100%" />
+<img src="https://github.com/2005mohit/assets/blob/main/2e4c9031-43bf-4bde-8dc0-0015c4f5cac9.png?raw=true" width="100%" />
 </p>
 
 <h1 align="center">Hi 👋, I'm Mohit Chandra Fulara</h1>
@@ -13,15 +13,27 @@ Working on practical AI systems using Machine Learning, RAG, and LLMs.
 
 ### 🧠 About
 
-I am an MCA student focused on building real-world AI and ML solutions.  
-I enjoy working on the complete pipeline — from data processing and model logic to deployment.
+I am an MCA student focused on developing and deploying real-world AI and ML systems.  
+I enjoy working on the full pipeline — from data processing and model logic to deployment.
 
 ---
 
 ### 🛠️ Languages & Tools
 
 <p>
-<img src="https://skillicons.dev/icons?i=python,cpp,sql,tensorflow,pytorch,sklearn,pandas,numpy,flask,fastapi,streamlit,git,docker,jupyter,aws" />
+<img src="https://skillicons.dev/icons?i=python,cpp,tensorflow,pytorch,sklearn,pandas,numpy,flask,fastapi,streamlit,git,docker,aws" />
+</p>
+
+---
+
+### 🧩 AI / ML Concepts
+
+<p>
+<img src="https://img.shields.io/badge/RAG-blue?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/LLM-black?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/NLP-orange?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Deep_Learning-red?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Vector_Search-green?style=for-the-badge"/>
 </p>
 
 ---
@@ -31,25 +43,25 @@ I enjoy working on the complete pipeline — from data processing and model logi
 **ML-Based Intrusion Detection System**
 
 - Detects abnormal and suspicious network activity  
-- Performs data preprocessing and feature engineering for security logs  
-- Identifies suspicious patterns using anomaly detection techniques  
+- Performs data preprocessing and feature engineering for model training  
+- Identifies suspicious patterns using anomaly detection  
 - Supports real-time monitoring for abnormal behavior  
 
 ---
 
 **AI-Based Security Log Analyzer (RAG + Vector Search)**
 
-- Queries large-scale security logs using embeddings and FAISS  
-- Implements RAG pipelines for intelligent log retrieval  
-- Automates anomaly detection and suspicious pattern identification  
-- Improves security analysis efficiency through AI-based insights  
+- Analyzes and queries large-scale security logs using embeddings  
+- Implements RAG pipelines with FAISS-based vector search  
+- Automates detection of anomalies and suspicious activities  
+- Improves log investigation efficiency  
 
 ---
 
 **AI-Based Legal Document Summarizer (RAG + LLM)**
 
-- Extracts executive summaries, key risks, and contractual obligations  
-- Uses vector embeddings and similarity search for context-aware analysis  
+- Extracts summaries, risks, and contractual obligations from legal text  
+- Uses vector embeddings and similarity search for context understanding  
 - Handles structured and unstructured legal documents  
 - Automates document review and risk identification  
 
@@ -58,8 +70,7 @@ I enjoy working on the complete pipeline — from data processing and model logi
 ### 📊 GitHub Stats
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=2005mohit&show_icons=true&theme=tokyonight"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=2005mohit&layout=compact&theme=tokyonight"/>
+<img src="https://github-readme-stats.vercel.app/api?username=2005mohit&show_icons=true&count_private=true&theme=tokyonight"/>
 </p>
 
 ---
@@ -73,5 +84,5 @@ I enjoy working on the complete pipeline — from data processing and model logi
 ---
 
 <p align="center">
-Learning by building practical AI & ML systems.
+Learning by building real AI & ML systems.
 </p>
