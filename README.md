@@ -14,20 +14,9 @@ Working on practical AI systems using Machine Learning, RAG, and LLMs.
 ### 🛠️ Languages & Tools
 
 <p align="left">
-<img src="https://skillicons.dev/icons?i=python"/>
-<img src="https://skillicons.dev/icons?i=cpp"/>
-<img src="https://skillicons.dev/icons?i=tensorflow"/>
-<img src="https://skillicons.dev/icons?i=pytorch"/>
-<img src="https://skillicons.dev/icons?i=sklearn"/>
-<img src="https://skillicons.dev/icons?i=pandas"/>
-<img src="https://skillicons.dev/icons?i=numpy"/>
-<img src="https://skillicons.dev/icons?i=flask"/>
-<img src="https://skillicons.dev/icons?i=fastapi"/>
-<img src="https://skillicons.dev/icons?i=streamlit"/>
-<img src="https://skillicons.dev/icons?i=git"/>
-<img src="https://skillicons.dev/icons?i=docker"/>
-<img src="https://skillicons.dev/icons?i=aws"/>
+<img src="https://skillicons.dev/icons?i=python,cpp,tensorflow,pytorch,sklearn,pandas,numpy,flask,fastapi,streamlit,git,docker,aws&perline=20" />
 </p>
+
 
 ---
 
