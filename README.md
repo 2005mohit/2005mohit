@@ -1,42 +1,47 @@
-<h1 align="center">Hi 👋, I'm Mohit Chandra</h1>
-<h3 align="center">🚀 AI Developer | MCA Student | Future AI Expert</h3>
+<h1 align="center">Hi 👋, I'm Mohit Chandra Fulara</h1>
+<h3 align="center">MCA Student • AI & ML Developer</h3>
 
 <p align="center">
-Passionate about building real-world AI tools using Machine Learning and LLMs.
+Focused on developing practical AI systems using Machine Learning, RAG, and LLMs.
 </p>
 
 ---
 
-<img align="right" alt="AI" width="300" src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif"/>
+### 🧠 What I’m Working On
 
-### 🧠 About Me
-
-- 🎓 MCA Student at **KR Mangalam University**
-- 🤖 Building AI models like:
-  - Legal Documentation Summarizer
-  - Intrusion Detection System
-- 🛠️ Skilled in **Python, Machine Learning, Deep Learning, NLP, RAG**
-- 🎯 Goal: Become an **AI Expert & Researcher**
-- 📚 Preparing for **NET Exam**
+- 🛡️ ML-Based Intrusion Detection System  
+- 📄 AI Legal Document Analyzer using RAG + LLM  
+- 🧩 Intelligent AI tools for portfolio & internships  
 
 ---
 
-### 🔥 Featured Projects
+### 🛠️ Languages & Frameworks
+
+<p>
+<img src="https://skillicons.dev/icons?i=python,cpp,sql,tensorflow,pytorch,sklearn,flask,fastapi,streamlit,git,docker" />
+</p>
+
+---
+
+### 📚 AI / ML Tools & Concepts
+
+<p>
+<img src="https://img.shields.io/badge/RAG-%2300B4D8.svg?style=for-the-badge&logo=OpenAI&logoColor=white"/>
+<img src="https://img.shields.io/badge/LLM-%231DA1F2.svg?style=for-the-badge&logo=OpenAI&logoColor=white"/>
+<img src="https://img.shields.io/badge/NLP-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white"/>
+<img src="https://img.shields.io/badge/Deep%20Learning-%23C2185B.svg?style=for-the-badge&logo=PyTorch&logoColor=white"/>
+</p>
+
+---
+
+### 🚀 Featured Projects
 
 | Project | Description |
 |--------|------------|
-| 📄 Legal Summarizer | AI model for summarizing legal documents |
-| 🛡️ ML-based IDS | Detects abnormal network activities |
-| 🤖 AI Chatbot | RAG-based document assistant |
-| 🎯 Interview AI Tools | AI projects for internship portfolio |
-
----
-
-### ⚙️ Tech Stack
-
-**Languages:** `Python` `C++` `SQL`  
-**AI/ML:** `PyTorch` `TensorFlow` `Scikit-learn` `Transformers` `LLMs`  
-**Tools:** `Git` `Docker` `FastAPI` `Flask` `Streamlit`
+| 🛡️ ML-Based IDS | Detects abnormal and suspicious network activity |
+| 📄 AI Legal Analyzer | Extracts summaries, risks, and obligations from legal documents |
+| 🧩 RAG Pipeline | Intelligent AI system for document retrieval |
+| 🤖 LLM Utilities | Practical AI tools for real-world use |
 
 ---
 
@@ -49,13 +54,14 @@ Passionate about building real-world AI tools using Machine Learning and LLMs.
 
 ---
 
-### 🌐 Connect With Me
+### 🌐 Connect
 
-📍 Almora, Uttarakhand  
-💼 LinkedIn: **in/mohit-chandra-fulora-a20657280**
+📍 Uttarakhand, India  
+📧 **mohitfulara2005@gmail.com**  
+🔗 **linkedin.com/in/mohit-chandra-fulara-a20657280**
 
 ---
 
 <p align="center">
-⭐ Always building and improving AI models.
+Learning by building real AI & ML systems.
 </p>
