@@ -39,14 +39,6 @@ Working on practical AI systems using Machine Learning, RAG, and LLMs.
 
 ### 🚀 Projects
 
-**ML-Based Intrusion Detection System**
-
-• Built a machine learning-based intrusion detection system to analyze network and system logs for anomalous activity.
-• Performed data preprocessing and feature engineering to prepare security logs for model training.
-• Applied anomaly detection techniques to identify suspicious patterns while reducing noise in log data.
-• Supported security analysis by enabling early identification of abnormal network behavior.
-
----
 
 **AI-Based Security Log Analyzer (RAG + Vector Search)**
 
