@@ -58,7 +58,7 @@ class MohitChandraFulara:
 ###  AI-Generated Content Detection System *(Jan 2026 - Mar 2026)*
 > **Stack:** Python · EfficientNet · HuggingFace Transformers · Scikit-learn · Matplotlib
 
-- 🔍 Built a **multimodal AI system** to detect whether text and images are AI-generated or human-written
+-  Built a **multimodal AI system** to detect whether text and images are AI-generated or human-written
 -  Text detection using `Hello-SimpleAI/chatgpt-detector-roberta` with confidence scoring
 -  Image detection using **EfficientNet architecture** to identify AI-generated visual inconsistencies
 -  Full preprocessing, tokenization & feature extraction pipelines
@@ -87,7 +87,7 @@ class MohitChandraFulara:
 
 ---
 
-## 🛠️ Tech Stack & Skills
+##  Tech Stack & Skills
 
 ###  Languages & Core
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
@@ -156,7 +156,7 @@ class MohitChandraFulara:
 
 ---
 
-## 📜 Certifications
+##  Certifications
 
 - 🏅 **Python Fundamentals for Beginners** — Simplilearn
 - 🏅 **Machine Learning using Python** — Simplilearn
