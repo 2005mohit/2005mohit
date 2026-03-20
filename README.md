@@ -6,8 +6,8 @@
 <h3 align="center">MCA Student • AI & ML Developer</h3>
 
 <div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Mohit%20Chandra%20Fulara&fontSize=42&fontColor=ffffff&fontAlignY=38&desc=AI%20%26%20ML%20Developer%20%7C%20Agentic%20AI%20%7C%20RAG%20%7C%20LLMs&descAlignY=58&descSize=18&animation=fadeIn" width="100%"/>
+  
+type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Mohit%20Chandra%20Fulara&fontSize=42&fontColor=ffffff&fontAlignY=38&desc=AI%20%26%20ML%20Developer%20%7C%20Agentic%20AI%20%7C%20RAG%20%7C%20LLMs&descAlignY=58&descSize=18&animation=fadeIn" width="100%"/>
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=7B68EE&center=true&vCenter=true&width=600&lines=MCA+Student+%40+K.R.+Mangalam+University;AI+%26+ML+Developer;Building+Agentic+AI+Systems;RAG+%7C+LLMs+%7C+Multi-Agent+Architectures)](https://git.io/typing-svg)
 
@@ -34,11 +34,11 @@ class MohitChandraFulara:
         self.university  = "K.R. Mangalam University, Gurgaon (2027)"
         self.location    = "Uttarakhand, India"
         self.focus       = ["Agentic AI", "RAG Pipelines", "LLMs", "Multi-Agent Systems"]
-        self.languages   = ["Python", "C++"]
-        self.currently   = "Building Multi-Agent AI SOC Platform 🔐"
+        self.languages   = ["Python"]
+        self.currently   = "Building Multi-Agent AI SOC Platform "
 
     def say_hi(self):
-        print("Thanks for dropping by! Let's build something intelligent 🚀")
+        print("Thanks for dropping by! Let's build something intelligent ")
 ```
 
 ---
