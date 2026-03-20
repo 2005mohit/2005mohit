@@ -24,7 +24,7 @@
 
 ---
 
-## 🧠 About Me
+##  About Me
 
 ```python
 class MohitChandraFulara:
@@ -45,56 +45,56 @@ class MohitChandraFulara:
 
 ## 🚀 Projects
 
-### 🔴 Multi-Agent AI SOC Platform *(In Progress — March 2026 - Present)*
+###  Multi-Agent AI SOC Platform *(In Progress — March 2026 - Present)*
 > **Stack:** Python · LangChain · LangGraph · FAISS · FastAPI · Docker · Kafka · Ollama · Llama3 · MITRE ATT&CK
 
-- 🔁 Upgraded AI-Based Security Log Analyzer into a full **Multi-Agent SOC Platform** using **LangGraph**
-- 🧠 Designed agent pipeline: `Kafka Stream → Correlation Agent → Intelligence Agent (RAG) → Risk Agent → Response Agent`
-- 🛡️ Built threat intelligence using **RAG with FAISS & MITRE ATT&CK** framework
-- ⚡ Automated **risk scoring & incident response** decision-making
-- 🤖 Integrated **Ollama + Llama3** for local LLM-powered threat analysis
+-  Upgraded AI-Based Security Log Analyzer into a full **Multi-Agent SOC Platform** using **LangGraph**
+-  Designed agent pipeline: `Kafka Stream → Correlation Agent → Intelligence Agent (RAG) → Risk Agent → Response Agent`
+-  Built threat intelligence using **RAG with FAISS & MITRE ATT&CK** framework
+-  Automated **risk scoring & incident response** decision-making
+-  Integrated **Ollama + Llama3** for local LLM-powered threat analysis
 
 ---
 
-### 🤖 AI-Generated Content Detection System *(Jan 2026 - Mar 2026)*
+###  AI-Generated Content Detection System *(Jan 2026 - Mar 2026)*
 > **Stack:** Python · EfficientNet · HuggingFace Transformers · Scikit-learn · Matplotlib
 
 - 🔍 Built a **multimodal AI system** to detect whether text and images are AI-generated or human-written
-- 📝 Text detection using `Hello-SimpleAI/chatgpt-detector-roberta` with confidence scoring
-- 🖼️ Image detection using **EfficientNet architecture** to identify AI-generated visual inconsistencies
-- 📊 Full preprocessing, tokenization & feature extraction pipelines
-- 📈 Evaluated with accuracy, precision, recall, **F1 Score & ROC AUC**
+-  Text detection using `Hello-SimpleAI/chatgpt-detector-roberta` with confidence scoring
+-  Image detection using **EfficientNet architecture** to identify AI-generated visual inconsistencies
+-  Full preprocessing, tokenization & feature extraction pipelines
+-  Evaluated with accuracy, precision, recall, **F1 Score & ROC AUC**
 
 ---
 
-### 🔒 AI-Based Security Log Analyzer *(Nov 2025 - Dec 2025)*
+###  AI-Based Security Log Analyzer *(Nov 2025 - Dec 2025)*
 > **Stack:** Python · FAISS · Sentence Transformers · FastAPI · RAG
 
-- 🔎 Built AI-powered system to **intelligently analyze and query large-scale security logs**
-- 🧩 Implemented **RAG pipeline** using sentence embeddings + FAISS-based vector search
-- 📦 Designed log ingestion, preprocessing, chunking & embedding workflows
-- 💬 Enabled **natural language querying** over logs to detect anomalies & suspicious activities
-- ⏱️ Automated manual log inspection, reducing investigation time significantly
+-  Built AI-powered system to **intelligently analyze and query large-scale security logs**
+-  Implemented **RAG pipeline** using sentence embeddings + FAISS-based vector search
+-  Designed log ingestion, preprocessing, chunking & embedding workflows
+-  Enabled **natural language querying** over logs to detect anomalies & suspicious activities
+-  Automated manual log inspection, reducing investigation time significantly
 
 ---
 
-### ⚖️ AI-Based Legal Document Summarizer *(Oct 2025 - Nov 2025)*
+###  AI-Based Legal Document Summarizer *(Oct 2025 - Nov 2025)*
 > **Stack:** Python · LangChain · FAISS · HuggingFace · RAG · LLM
 
-- 📑 Analyzed **multi-page legal documents** to extract executive summaries, key risks & contractual obligations
-- 🧠 Implemented **RAG using vector embeddings** and similarity search for context-aware clause understanding
-- 🔗 Designed full pipeline: document ingestion → chunking → embedding → querying
-- ⚡ Automated manual summarization & **risk identification** for faster document review
+-  Analyzed **multi-page legal documents** to extract executive summaries, key risks & contractual obligations
+-  Implemented **RAG using vector embeddings** and similarity search for context-aware clause understanding
+-  Designed full pipeline: document ingestion → chunking → embedding → querying
+-  Automated manual summarization & **risk identification** for faster document review
 
 ---
 
 ## 🛠️ Tech Stack & Skills
 
-### 💻 Languages & Core
+###  Languages & Core
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
 
-### 🤖 AI / ML & Deep Learning
+###  AI / ML & Deep Learning
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
 ![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
@@ -154,12 +154,6 @@ class MohitChandraFulara:
 
 ---
 
-## 🎓 Education
-
-| Degree | Institution | Year | Score |
-|--------|-------------|------|-------|
-| 🎓 MCA (Master of Computer Applications) | K.R. Mangalam University, Gurgaon | 2025–2027 | Pursuing |
-| 🧬 B.Sc Biotech & Bioinformatics | HIMT Group of Institutions, Greater Noida | 2022–2025 | 7.1/10 |
 
 ---
 
@@ -167,23 +161,6 @@ class MohitChandraFulara:
 
 - 🏅 **Python Fundamentals for Beginners** — Simplilearn
 - 🏅 **Machine Learning using Python** — Simplilearn
-
----
-
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=2005mohit&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=2005mohit&layout=compact&langs_count=8&theme=tokyonight&hide_border=true"/>
-
-</div>
-
-<div align="center">
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=2005mohit&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
-
-</div>
 
 ---
 
