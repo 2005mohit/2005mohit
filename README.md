@@ -12,8 +12,6 @@
 
 <p>
   <a href="https://linkedin.com/in/mohit-chandra-fulara-a20657280"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="https://github.com/2005mohit"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/></a>
-  <img src="https://img.shields.io/badge/Location-Uttarakhand,%20India-FF5733?style=for-the-badge&logo=googlemaps&logoColor=white"/>
 </p>
 
 
