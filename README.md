@@ -164,7 +164,6 @@ class MohitChandraFulara:
 Connect with Me
 
 📧 mohitfulara2005@gmail.com
-📍 India
 
 <div align="center">
 
