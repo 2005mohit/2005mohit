@@ -16,7 +16,6 @@
   <img src="https://img.shields.io/badge/Location-Uttarakhand,%20India-FF5733?style=for-the-badge&logo=googlemaps&logoColor=white"/>
 </p>
 
-<img src="https://komarev.com/ghpvc/?username=2005mohit&label=Profile%20Views&color=7B68EE&style=flat-square" alt="Profile Views"/>
 
 </div>
 
