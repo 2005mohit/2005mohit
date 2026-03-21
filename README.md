@@ -162,24 +162,11 @@ class MohitChandraFulara:
 
 ---
 
-## 🌐 Connect with Me
+##  Connect with Me
 
-<div align="center">
-
-<a href="mailto:mohitfulara2005@gmail.com">
-  <img src="https://img.shields.io/badge/Email-mohitfulara2005@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-<br/><br/>
-<a href="https://linkedin.com/in/mohit-chandra-fulara-a20657280">
-  <img src="https://img.shields.io/badge/LinkedIn-mohit--chandra--fulara-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-<br/><br/>
-<a href="https://github.com/2005mohit">
-  <img src="https://img.shields.io/badge/GitHub-2005mohit-100000?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-
-</div>
-
+Email: mohitfulara2005@gmail.com
+LinkedIn: mohit-chandra-fulara
+GitHub: 2005mohit
 ---
 
 <div align="center">
