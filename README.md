@@ -162,12 +162,10 @@ class MohitChandraFulara:
 
 ---
 
-##  Connect with Me
+Connect with Me
 
-Email: mohitfulara2005@gmail.com
-LinkedIn: mohit-chandra-fulara
-GitHub: 2005mohit
----
+📧 mohitfulara2005@gmail.com
+📍 India
 
 <div align="center">
 
