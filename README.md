@@ -157,16 +157,6 @@ Experienced in:
 - Autonomous Workflows  
 - Ollama, LLaMA3  
 
----
-
-##  GitHub Stats
-
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=2005mohit&show_icons=true&theme=radical" />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=2005mohit&theme=radical" />
-</p>
-
----
 
 ---
 
