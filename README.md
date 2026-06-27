@@ -19,7 +19,7 @@
 
 ---
 
-## 🧠 About Me
+##  About Me
 
 ```python
 mohit = {
@@ -36,9 +36,9 @@ mohit = {
 
 ---
 
-## 🚀 Projects
+##  Projects
 
-### 🛡️ Multi-Agent AI SOC Platform
+###  Multi-Agent AI SOC Platform
 > Automated end-to-end incident response with stateful LangGraph pipeline
 
 - Architected a **4-agent LangGraph pipeline** → `Kafka Stream → Correlation Agent → Intelligence Agent → Risk Agent → Response Agent`
@@ -49,7 +49,7 @@ mohit = {
 
 ---
 
-### 🔍 AI-Generated Content Detection System *(Text + Image)*
+###  AI-Generated Content Detection System *(Text + Image)*
 > Multimodal AI pipeline achieving 91% accuracy on test set
 
 - Built with **chatgpt-detector-roberta** for text classification and **EfficientNet** for image inconsistency scoring
@@ -60,7 +60,7 @@ mohit = {
 
 ---
 
-### ⚖️ AI-Based Legal Document Summarizer *(RAG + LLM)*
+###  AI-Based Legal Document Summarizer *(RAG + LLM)*
 > Intelligent extraction of executive summaries, key risks & contractual obligations
 
 - Developed AI system to analyze **multi-page legal documents** — cut manual review from hours to **under 5 minutes per document**
@@ -71,9 +71,10 @@ mohit = {
 
 ---
 
-## 🛠️ Tech Arsenal
+##  Tech Arsenal
 
-### 🤖 Agentic AI
+###  Agentic AI
+<div align="center">
 <p>
   <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" />
   <img src="https://img.shields.io/badge/LangGraph-FF6B35?style=for-the-badge&logo=python&logoColor=white" />
@@ -81,8 +82,10 @@ mohit = {
   <img src="https://img.shields.io/badge/ReAct-00B4D8?style=for-the-badge&logo=robot&logoColor=white" />
   <img src="https://img.shields.io/badge/Multi--Agent_Orchestration-6C3483?style=for-the-badge&logo=amazonaws&logoColor=white" />
 </p>
+</div>
 
-### 🧬 LLMs & RAG
+###  LLMs & RAG
+<div align="center">
 <p>
   <img src="https://img.shields.io/badge/RAG-FF4B4B?style=for-the-badge&logo=databricks&logoColor=white" />
   <img src="https://img.shields.io/badge/FAISS-0078D4?style=for-the-badge&logo=meta&logoColor=white" />
@@ -92,16 +95,20 @@ mohit = {
   <img src="https://img.shields.io/badge/Llama3-0467DF?style=for-the-badge&logo=meta&logoColor=white" />
   <img src="https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" />
 </p>
+</div>
 
-### ⚙️ ML & Deep Learning
+###  ML & Deep Learning
+<div align="center">
 <p>
   <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" />
   <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white" />
   <img src="https://img.shields.io/badge/HuggingFace_Transformers-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" />
   <img src="https://img.shields.io/badge/NLP-8E44AD?style=for-the-badge&logo=openai&logoColor=white" />
 </p>
+</div>
 
-### 🔧 Backend & Infrastructure
+###  Backend & Infrastructure
+<div align="center">
 <p>
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" />
@@ -112,10 +119,11 @@ mohit = {
   <img src="https://img.shields.io/badge/AWS_S3-569A31?style=for-the-badge&logo=amazons3&logoColor=white" />
   <img src="https://img.shields.io/badge/Kafka-231F20?style=for-the-badge&logo=apachekafka&logoColor=white" />
 </p>
+</div>
 
 ---
 
-## 📊 GitHub Statistics
+##  GitHub Statistics
 
 <div align="center">
 
@@ -129,15 +137,6 @@ mohit = {
 [![GitHub Streak](https://streak-stats.demolab.com?user=2005mohit&theme=tokyonight&hide_border=true&background=0d1117&ring=4FC3F7&fire=4FC3F7&currStreakLabel=4FC3F7)](https://git.io/streak-stats)
 
 </div>
-
----
-
-## 🎓 Education
-
-| Degree | Institution | Period | Focus |
-|--------|-------------|--------|-------|
-| 🎓 **MCA** (Pursuing) | K.R. Mangalam University, Gurgaon | 2025 – 2027 | AI/ML Systems, Agentic Architecture, NLP |
-| 🧬 **B.Sc Biotech & Bioinformatics** | HIMT Group of Institutions, Greater Noida | 2022 – 2025 | 7.1/10 CGPA |
 
 ---
 
