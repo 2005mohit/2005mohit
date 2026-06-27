@@ -79,7 +79,7 @@ mohit = {
 &nbsp;&nbsp;
 <img src="https://registry.npmmirror.com/@lobehub/icons-static-png/latest/files/dark/langgraph-color.png" height="48" title="LangGraph"/>
 &nbsp;&nbsp;
-<img src="https://registry.npmmirror.com/@lobehub/icons-static-png/latest/files/dark/openai-color.png" height="48" title="AutoGen (OpenAI)"/>
+<img src="https://cdnlogo.com/logo/autogen_3736.html" height="48" title="AutoGen (OpenAI)"/>
 &nbsp;&nbsp;
 <img src="https://skillicons.dev/icons?i=aws" height="48" title="Multi-Agent / AWS"/>
 </div>
