@@ -100,8 +100,6 @@ mohit = {
 
 </div>
 ---
----
-
 ##  GitHub Statistics
 
 <div align="center">
