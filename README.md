@@ -1,88 +1,319 @@
+<h1 align="center">
+  Hi 👋, I'm Mohit Chandra Fulara
+</h1>
 
-# Mohit Chandra Fulara
-
-**AI Engineer · Agentic Systems · Multi-Agent Architectures · LangGraph**
-
-I build AI systems that *act*, not just respond — production-grade agentic pipelines, multi-agent orchestration, and RAG systems deployed end-to-end.
-
----
-
-## What I'm Building
-
-| Project | Stack | Status |
-|---|---|---|
-| Multi-Agent AI SOC Platform | LangGraph · Kafka · FAISS · MITRE ATT&CK · FastAPI |  Complete |
-| AI Content Detection System | RoBERTa · EfficientNet · HuggingFace · Scikit-learn |  Complete |
-| Legal Document Summarizer | RAG · FAISS · LangChain · PyPDF2 · FastAPI |  Complete |
-| AI Security Log Analyzer | FAISS · Vector Search · LangChain · FastAPI |  Complete |
-
----
-
-##  Core Expertise
-
-```
-Agentic AI      →  LangGraph · LangChain · AutoGen · ReAct · Multi-Agent Orchestration
-LLMs & RAG      →  FAISS · ChromaDB · Pinecone · Embeddings · Fine-tuning · Ollama · Llama3
-ML & DL         →  PyTorch · HuggingFace Transformers · Scikit-learn · NLP
-Backend & Infra →  FastAPI · PostgreSQL · Docker · Kafka · GitHub Actions · AWS (EC2, S3)
-```
-
----
-
-##  Featured Projects
-
-###  Multi-Agent AI SOC Platform
-> Automated Security Operations Center — 4 agents collaborating in real-time
-
-- Architected **Kafka Stream → Correlation Agent → Intelligence Agent → Risk Agent → Response Agent** pipeline using LangGraph with stateful checkpointing
-- Built RAG layer over **MITRE ATT&CK** knowledge base using FAISS — reduced manual incident triage by **~60%**, processing **500+ security log events** per run
-- **Stack:** Python · LangChain · LangGraph · FAISS · FastAPI · Docker · Kafka · Ollama · Llama3
-
----
-
-###  AI-Generated Content Detection System (Text + Image)
-> Detects AI-generated content across both text and image modalities
-
-- Built multimodal detection using **chatgpt-detector-roberta** (text) + **EfficientNet** (image) — achieved **91% accuracy** on test set
-- End-to-end ML pipeline: preprocessing → tokenization → feature extraction → evaluation (Accuracy · Precision · Recall · F1 · ROC-AUC)
-- **Stack:** Python · HuggingFace · EfficientNet · Scikit-learn · Feature Extraction Pipelines
-
----
-
-###  AI-Based Legal Document Summarizer (RAG + LLM)
-> Cuts multi-page legal document review from hours to under 5 minutes
-
-- RAG pipeline with vector embeddings + similarity search for context-aware clause understanding
-- Handles **50+ page PDFs** with RecursiveCharacterTextSplitter — improved retrieval accuracy by **~35%** over naive splitting
-- **Stack:** Python · LangChain · FAISS · OpenAI/Ollama · HuggingFace · PyPDF2 · FastAPI
-
----
-
-###  AI-Based Security Log Analyzer (RAG + Vector Search)
-> Natural language querying over raw security logs
-
-- FAISS vector embeddings for semantic retrieval over log data
-- Handles log ingestion, chunking, embedding pipeline with anomaly detection
-- **Stack:** Python · FAISS · LangChain · FastAPI · Docker
-
----
-
-## 📚 Currently Learning
-
--  LangGraph subgraphs + human-in-the-loop patterns
--  MCP (Model Context Protocol) server development
--  Production agent deployment with async task queues
-
----
-
-##  Connect
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/mohit-chandra-fulara-a20657280)
-[![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:Mohitfulara2005@gmail.com)
-
-
----
+<h3 align="center">
+AI Engineer • Agentic AI Systems • Multi-Agent Architectures • RAG Pipelines
+</h3>
 
 <p align="center">
-  <i>⭐ Building real-world AI systems — not just theory.</i>
+Building production-grade AI systems that act, reason, and automate workflows.
 </p>
+
+---
+
+<div align="center">
+
+![Profile Views](https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile%20Views&color=blue&style=for-the-badge)
+
+</div>
+
+---
+
+# 🚀 About Me
+
+🔹 MCA Student passionate about Generative AI and Intelligent Systems
+
+🔹 Building Agentic AI Applications using LangGraph & Multi-Agent Architectures
+
+🔹 Interested in AI Automation, RAG Systems, AI Security and AI Governance
+
+🔹 Focused on production-ready AI systems rather than demo projects
+
+🔹 Currently exploring:
+
+- Autonomous AI Agents
+- Multi-Agent Systems
+- AI Governance Platforms
+- AI Security Operations (AI SOC)
+- Advanced RAG Architectures
+
+---
+
+# 🧠 What I'm Building
+
+### 🤖 Agentic AI Systems
+
+Building AI applications capable of:
+
+✅ Planning
+
+✅ Tool Calling
+
+✅ Memory Management
+
+✅ Autonomous Decision Making
+
+✅ Multi-Step Reasoning
+
+✅ Workflow Automation
+
+---
+
+### 🔍 Retrieval-Augmented Generation (RAG)
+
+Working on:
+
+- Hybrid Search
+- Vector Databases
+- Semantic Retrieval
+- Knowledge Graph Integration
+- Context Engineering
+- Evaluation Frameworks
+
+---
+
+### 🏗️ AI Infrastructure
+
+Designing production systems with:
+
+- FastAPI
+- PostgreSQL
+- Docker
+- Kubernetes
+- AWS
+- CI/CD Pipelines
+- Monitoring & Observability
+
+---
+
+# ⚡ Tech Arsenal
+
+## 🖥️ Languages
+
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=python,js,ts,java,bash" />
+
+</p>
+
+---
+
+## 🤖 AI / LLM Stack
+
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=pytorch,tensorflow" />
+
+</p>
+
+<p align="center">
+
+LangChain • LangGraph • CrewAI • AutoGen • OpenAI • Anthropic Claude • Gemini • Hugging Face • Ollama
+
+</p>
+
+---
+
+## 📚 Vector Databases
+
+<p align="center">
+
+Pinecone • FAISS • ChromaDB • Weaviate • Qdrant
+
+</p>
+
+---
+
+## ⚙️ Backend Development
+
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=python,fastapi,nodejs,express" />
+
+</p>
+
+---
+
+## 🗄️ Databases
+
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,redis" />
+
+</p>
+
+---
+
+## ☁️ Cloud & DevOps
+
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=aws,docker,kubernetes,linux,githubactions,terraform" />
+
+</p>
+
+---
+
+## 🔍 Monitoring & Observability
+
+Prometheus • Grafana • Loki • ELK Stack
+
+---
+
+## 🛠️ Development Tools
+
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=git,github,vscode,postman" />
+
+</p>
+
+---
+
+# 💼 Featured Projects
+
+## 🤖 Multi-Agent AI SOC Platform
+
+AI-powered Security Operations Center using autonomous agents.
+
+### Features
+
+- Multi-Agent Investigation
+- Threat Correlation
+- Incident Analysis
+- Security Alert Triage
+- Automated Response Suggestions
+
+### Tech Stack
+
+LangGraph • FastAPI • PostgreSQL • Docker • Redis
+
+---
+
+## ⚖️ AI Legal Document Analyzer
+
+Enterprise-grade legal document intelligence platform.
+
+### Features
+
+- Legal Document Parsing
+- RAG-Based Question Answering
+- Clause Extraction
+- Contract Risk Analysis
+- Multi-Document Reasoning
+
+### Tech Stack
+
+LangChain • FAISS • OpenAI • FastAPI
+
+---
+
+## 🛡️ AI Generated Content Detection System
+
+Detect AI-generated text and images.
+
+### Features
+
+- Text Classification
+- Image Analysis
+- Explainable Predictions
+- Confidence Scoring
+
+### Tech Stack
+
+PyTorch • Transformers • FastAPI
+
+---
+
+## 🏢 Autonomous AI Governance Agent
+
+AI Governance Platform for SMBs.
+
+### Features
+
+- Shadow AI Discovery
+- AI Risk Assessment
+- Compliance Monitoring
+- Policy Generation
+- Continuous Governance
+
+### Tech Stack
+
+LangGraph • FastAPI • PostgreSQL • AWS
+
+---
+
+# 📊 GitHub Statistics
+
+<div align="center">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight"/>
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight"/>
+
+</div>
+
+---
+
+# 🔥 GitHub Streak
+
+<div align="center">
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight"/>
+
+</div>
+
+---
+
+# 📈 Contribution Graph
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=tokyo-night"/>
+
+</div>
+
+---
+
+# 🌐 Let's Connect
+
+<div align="center">
+
+<a href="YOUR_LINKEDIN">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="mailto:YOUR_EMAIL">
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="YOUR_PORTFOLIO">
+<img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
+</a>
+
+<a href="YOUR_GITHUB">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
+</a>
+
+</div>
+
+---
+
+# 💡 Current Focus
+
+```yaml
+Learning:
+  - Agentic AI
+  - Multi-Agent Systems
+  - AI Governance
+  - AI Security
+  - Kubernetes
+
+Building:
+  - Autonomous AI Governance Agent
+  - Multi-Agent AI SOC Platform
+
+Goal:
+  - Become an AI Systems Engineer
+  - Build production-grade intelligent systems
