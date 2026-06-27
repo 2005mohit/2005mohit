@@ -71,9 +71,9 @@ mohit = {
 
 ---
 
-##  Tech Arsenal
+## 🛠️ Tech Arsenal
 
-###  Agentic AI
+### 🤖 Agentic AI
 <div align="center">
 <img src="https://registry.npmmirror.com/@lobehub/icons-static-png/latest/files/dark/langchain-color.png" height="48" title="LangChain"/>
 &nbsp;&nbsp;
@@ -81,35 +81,61 @@ mohit = {
 &nbsp;&nbsp;
 <img src="https://upload.wikimedia.org/wikipedia/commons/4/4d/OpenAI_Logo.svg" height="48" title="AutoGen"/>
 &nbsp;&nbsp;
-<img src="https://skillicons.dev/icons?i=aws" height="48" title="Multi-Agent / AWS"/>
+<img src="https://skillicons.dev/icons?i=aws" height="48" title="Multi-Agent Orchestration"/>
+&nbsp;&nbsp;
+<img src="https://skillicons.dev/icons?i=python" height="48" title="Agent State Management"/>
 </div>
 
-###  LLMs & RAG
+### 🧬 LLMs & RAG
 <div align="center">
 <img src="https://registry.npmmirror.com/@lobehub/icons-static-png/latest/files/dark/ollama.png" height="48" title="Ollama"/>
 &nbsp;&nbsp;
-<img src="https://registry.npmmirror.com/@lobehub/icons-static-png/latest/files/dark/meta-color.png" height="48" title="Llama3 / FAISS by Meta"/>
+<img src="https://registry.npmmirror.com/@lobehub/icons-static-png/latest/files/dark/meta-color.png" height="48" title="Llama3"/>
 &nbsp;&nbsp;
-<img src="https://registry.npmmirror.com/@lobehub/icons-static-png/latest/files/dark/huggingface-color.png" height="48" title="HuggingFace"/>
+<img src="https://registry.npmmirror.com/@lobehub/icons-static-png/latest/files/dark/huggingface-color.png" height="48" title="HuggingFace / Fine-tuning"/>
 &nbsp;&nbsp;
-<img src="https://seeklogo.com/images/C/chroma-logo-B5C22B3B2E-seeklogo.com.png" height="48" title="ChromaDB"/>
+<img src="https://avatars.githubusercontent.com/u/107894552?v=4" height="48" title="ChromaDB"/>
+&nbsp;&nbsp;
 <img src="https://avatars.githubusercontent.com/u/54333248" height="48" title="Pinecone"/>
+&nbsp;&nbsp;
+<img src="https://avatars.githubusercontent.com/u/54333248" height="48" title="Pinecone"/>
+&nbsp;&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/facebook/facebook-original.svg" height="48" title="FAISS by Meta"/>
+&nbsp;&nbsp;
+<img src="https://registry.npmmirror.com/@lobehub/icons-static-png/latest/files/dark/openai-color.png" height="48" title="Embeddings / Prompt Engineering"/>
 </div>
 
-###  ML & Deep Learning
+### ⚙️ ML & Deep Learning
 <div align="center">
-<img src="https://skillicons.dev/icons?i=pytorch,sklearn" height="48"/>
+<img src="https://skillicons.dev/icons?i=pytorch" height="48" title="PyTorch"/>
+&nbsp;&nbsp;
+<img src="https://skillicons.dev/icons?i=sklearn" height="48" title="Scikit-learn"/>
 &nbsp;&nbsp;
 <img src="https://registry.npmmirror.com/@lobehub/icons-static-png/latest/files/dark/huggingface-color.png" height="48" title="HuggingFace Transformers"/>
 &nbsp;&nbsp;
-<img src="https://registry.npmmirror.com/@lobehub/icons-static-png/latest/files/dark/openai-color.png" height="48" title="NLP / OpenAI"/>
+<img src="https://upload.wikimedia.org/wikipedia/commons/4/4d/OpenAI_Logo.svg" height="48" title="NLP"/>
+&nbsp;&nbsp;
+<img src="https://skillicons.dev/icons?i=tensorflow" height="48" title="Feature Extraction"/>
 </div>
 
-###  Backend & Infrastructure
+### 🔧 Backend & Infrastructure
 <div align="center">
-<img src="https://skillicons.dev/icons?i=python,fastapi,postgres,docker,githubactions,aws,kafka,linux&perline=8" height="48"/>
+<img src="https://skillicons.dev/icons?i=python" height="48" title="Python"/>
+&nbsp;&nbsp;
+<img src="https://skillicons.dev/icons?i=fastapi" height="48" title="FastAPI"/>
+&nbsp;&nbsp;
+<img src="https://skillicons.dev/icons?i=postgres" height="48" title="PostgreSQL"/>
+&nbsp;&nbsp;
+<img src="https://skillicons.dev/icons?i=docker" height="48" title="Docker"/>
+&nbsp;&nbsp;
+<img src="https://skillicons.dev/icons?i=githubactions" height="48" title="GitHub Actions"/>
+&nbsp;&nbsp;
+<img src="https://skillicons.dev/icons?i=aws" height="48" title="AWS EC2 / S3"/>
+&nbsp;&nbsp;
+<img src="https://skillicons.dev/icons?i=kafka" height="48" title="Kafka"/>
+&nbsp;&nbsp;
+<img src="https://skillicons.dev/icons?i=linux" height="48" title="Linux"/>
 </div>
-
 ---
 
 ##  GitHub Statistics
