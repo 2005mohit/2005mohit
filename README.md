@@ -77,30 +77,19 @@ mohit = {
 
 <div align="center">
 
-<a href="https://www.langchain.com">
-<img src="https://cdn.simpleicons.org/langchain" height="50" alt="LangChain"/>
-</a>
+<img src="https://skillicons.dev/icons?i=python" height="50" title="Agentic AI"/>
 
-&nbsp;&nbsp;
+<img src="https://cdn.simpleicons.org/langchain" height="50" title="LangChain"/>
 
-<a href="https://www.langchain.com/langgraph">
-<img src="https://registry.npmmirror.com/@lobehub/icons-static-png/latest/files/dark/langgraph-color.png" height="50" alt="LangGraph"/>
-</a>
+<img src="https://registry.npmmirror.com/@lobehub/icons-static-png/latest/files/dark/langgraph-color.png" height="50" title="LangGraph"/>
 
-&nbsp;&nbsp;
-
-<a href="https://github.com/microsoft/autogen">
-<img src="https://cdn.simpleicons.org/openai" height="50" alt="AutoGen"/>
-</a>
+<img src="https://cdn.simpleicons.org/openai" height="50" title="AutoGen"/>
 
 </div>
 
 <div align="center">
 
-![ReAct](https://img.shields.io/badge/ReAct-Agent-blue?style=for-the-badge)
-![Multi-Agent](https://img.shields.io/badge/Multi--Agent-Orchestration-purple?style=for-the-badge)
-![Tool Integration](https://img.shields.io/badge/Tool-Integration-green?style=for-the-badge)
-![State Management](https://img.shields.io/badge/Agent-State_Management-orange?style=for-the-badge)
+`ReAct` • `Multi-Agent Orchestration` • `Tool Integration` • `Agent State Management`
 
 </div>
 
@@ -110,37 +99,21 @@ mohit = {
 
 <div align="center">
 
-<img src="https://registry.npmmirror.com/@lobehub/icons-static-png/latest/files/dark/ollama.png" height="50" alt="Ollama"/>
+<img src="https://registry.npmmirror.com/@lobehub/icons-static-png/latest/files/dark/ollama.png" height="50" title="Ollama"/>
 
-&nbsp;&nbsp;
+<img src="https://cdn.simpleicons.org/meta" height="50" title="Llama 3"/>
 
-<img src="https://cdn.simpleicons.org/meta" height="50" alt="Llama 3"/>
+<img src="https://cdn.simpleicons.org/huggingface" height="50" title="Hugging Face"/>
 
-&nbsp;&nbsp;
+<img src="https://avatars.githubusercontent.com/u/107894552?v=4" height="50" title="ChromaDB"/>
 
-<img src="https://cdn.simpleicons.org/huggingface" height="50" alt="Hugging Face"/>
-
-&nbsp;&nbsp;
-
-<img src="https://avatars.githubusercontent.com/u/107894552?v=4" height="50" alt="ChromaDB"/>
-
-&nbsp;&nbsp;
-
-<img src="https://avatars.githubusercontent.com/u/54333248?v=4" height="50" alt="Pinecone"/>
+<img src="https://avatars.githubusercontent.com/u/54333248?v=4" height="50" title="Pinecone"/>
 
 </div>
 
 <div align="center">
 
-![RAG](https://img.shields.io/badge/RAG-Retrieval_Augmented_Generation-blue?style=for-the-badge)
-
-![FAISS](https://img.shields.io/badge/FAISS-Vector_Search-green?style=for-the-badge)
-
-![Embeddings](https://img.shields.io/badge/Embeddings-Semantic_Search-purple?style=for-the-badge)
-
-![Prompt Engineering](https://img.shields.io/badge/Prompt-Engineering-orange?style=for-the-badge)
-
-![Fine Tuning](https://img.shields.io/badge/Fine--Tuning-LLMs-red?style=for-the-badge)
+`RAG` • `Embeddings` • `Prompt Engineering` • `Fine-Tuning`
 
 </div>
 
@@ -150,27 +123,19 @@ mohit = {
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=pytorch" height="50"/>
+<img src="https://skillicons.dev/icons?i=pytorch" height="50" title="PyTorch"/>
 
-&nbsp;&nbsp;
+<img src="https://skillicons.dev/icons?i=sklearn" height="50" title="Scikit-Learn"/>
 
-<img src="https://skillicons.dev/icons?i=sklearn" height="50"/>
+<img src="https://cdn.simpleicons.org/huggingface" height="50" title="Hugging Face Transformers"/>
 
-&nbsp;&nbsp;
-
-<img src="https://cdn.simpleicons.org/huggingface" height="50"/>
-
-&nbsp;&nbsp;
-
-<img src="https://skillicons.dev/icons?i=tensorflow" height="50"/>
+<img src="https://skillicons.dev/icons?i=tensorflow" height="50" title="TensorFlow"/>
 
 </div>
 
 <div align="center">
 
-![NLP](https://img.shields.io/badge/NLP-Natural_Language_Processing-blue?style=for-the-badge)
-
-![Feature Extraction](https://img.shields.io/badge/Feature-Extraction-green?style=for-the-badge)
+`NLP` • `Feature Extraction`
 
 </div>
 
@@ -180,27 +145,17 @@ mohit = {
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=fastapi" height="50"/>
+<img src="https://skillicons.dev/icons?i=fastapi" height="50" title="FastAPI"/>
 
-&nbsp;&nbsp;
+<img src="https://skillicons.dev/icons?i=postgres" height="50" title="PostgreSQL"/>
 
-<img src="https://skillicons.dev/icons?i=postgres" height="50"/>
+<img src="https://skillicons.dev/icons?i=docker" height="50" title="Docker"/>
 
-&nbsp;&nbsp;
+<img src="https://skillicons.dev/icons?i=githubactions" height="50" title="GitHub Actions"/>
 
-<img src="https://skillicons.dev/icons?i=docker" height="50"/>
+<img src="https://skillicons.dev/icons?i=aws" height="50" title="AWS"/>
 
-&nbsp;&nbsp;
-
-<img src="https://skillicons.dev/icons?i=githubactions" height="50"/>
-
-&nbsp;&nbsp;
-
-<img src="https://skillicons.dev/icons?i=aws" height="50"/>
-
-&nbsp;&nbsp;
-
-<img src="https://skillicons.dev/icons?i=kafka" height="50"/>
+<img src="https://skillicons.dev/icons?i=kafka" height="50" title="Kafka"/>
 
 </div>
 
@@ -210,9 +165,11 @@ mohit = {
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=python" height="60"/>
+<img src="https://skillicons.dev/icons?i=python" height="60" title="Python"/>
 
 </div>
+
+---
 ---
 
 ##  GitHub Statistics
