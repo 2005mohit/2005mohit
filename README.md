@@ -98,10 +98,6 @@ mohit = {
 &nbsp;&nbsp;
 <img src="https://avatars.githubusercontent.com/u/54333248" height="48" title="Pinecone"/>
 &nbsp;&nbsp;
-<img src="https://avatars.githubusercontent.com/u/54333248" height="48" title="Pinecone"/>
-&nbsp;&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/facebook/facebook-original.svg" height="48" title="FAISS by Meta"/>
-&nbsp;&nbsp;
 <img src="https://registry.npmmirror.com/@lobehub/icons-static-png/latest/files/dark/openai-color.png" height="48" title="Embeddings / Prompt Engineering"/>
 </div>
 
