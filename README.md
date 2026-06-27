@@ -92,7 +92,7 @@ mohit = {
 &nbsp;&nbsp;
 <img src="https://registry.npmmirror.com/@lobehub/icons-static-png/latest/files/dark/huggingface-color.png" height="48" title="HuggingFace"/>
 &nbsp;&nbsp;
-<img src="https://registry.npmmirror.com/@lobehub/icons-static-png/latest/files/dark/chroma-color.png" height="48" title="ChromaDB"/>
+<img src="https://avatars.githubusercontent.com/u/107894552" height="48" title="ChromaDB"/>
 &nbsp;&nbsp;
 <img src="https://avatars.githubusercontent.com/u/54333248" height="48" title="Pinecone"/>
 </div>
