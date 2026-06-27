@@ -75,50 +75,40 @@ mohit = {
 
 ###  Agentic AI
 <div align="center">
-<p>
-  <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" />
-  <img src="https://img.shields.io/badge/LangGraph-FF6B35?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/AutoGen-412991?style=for-the-badge&logo=openai&logoColor=white" />
-  <img src="https://img.shields.io/badge/ReAct-00B4D8?style=for-the-badge&logo=robot&logoColor=white" />
-  <img src="https://img.shields.io/badge/Multi--Agent_Orchestration-6C3483?style=for-the-badge&logo=amazonaws&logoColor=white" />
-</p>
+<img src="https://registry.npmmirror.com/@lobehub/icons-static-png/latest/files/dark/langchain-color.png" height="48" title="LangChain"/>
+&nbsp;&nbsp;
+<img src="https://registry.npmmirror.com/@lobehub/icons-static-png/latest/files/dark/langgraph-color.png" height="48" title="LangGraph"/>
+&nbsp;&nbsp;
+<img src="https://registry.npmmirror.com/@lobehub/icons-static-png/latest/files/dark/openai-color.png" height="48" title="AutoGen (OpenAI)"/>
+&nbsp;&nbsp;
+<img src="https://skillicons.dev/icons?i=aws" height="48" title="Multi-Agent / AWS"/>
 </div>
 
 ###  LLMs & RAG
 <div align="center">
-<p>
-  <img src="https://img.shields.io/badge/RAG-FF4B4B?style=for-the-badge&logo=databricks&logoColor=white" />
-  <img src="https://img.shields.io/badge/FAISS-0078D4?style=for-the-badge&logo=meta&logoColor=white" />
-  <img src="https://img.shields.io/badge/ChromaDB-FF6B6B?style=for-the-badge&logo=databricks&logoColor=white" />
-  <img src="https://img.shields.io/badge/Pinecone-000000?style=for-the-badge&logo=pinecone&logoColor=white" />
-  <img src="https://img.shields.io/badge/Ollama-1A1A2E?style=for-the-badge&logo=llama&logoColor=white" />
-  <img src="https://img.shields.io/badge/Llama3-0467DF?style=for-the-badge&logo=meta&logoColor=white" />
-  <img src="https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" />
-</p>
+<img src="https://registry.npmmirror.com/@lobehub/icons-static-png/latest/files/dark/ollama.png" height="48" title="Ollama"/>
+&nbsp;&nbsp;
+<img src="https://registry.npmmirror.com/@lobehub/icons-static-png/latest/files/dark/meta-color.png" height="48" title="Llama3 / FAISS by Meta"/>
+&nbsp;&nbsp;
+<img src="https://registry.npmmirror.com/@lobehub/icons-static-png/latest/files/dark/huggingface-color.png" height="48" title="HuggingFace"/>
+&nbsp;&nbsp;
+<img src="https://registry.npmmirror.com/@lobehub/icons-static-png/latest/files/dark/chroma-color.png" height="48" title="ChromaDB"/>
+&nbsp;&nbsp;
+<img src="https://avatars.githubusercontent.com/u/54333248" height="48" title="Pinecone"/>
 </div>
 
 ###  ML & Deep Learning
 <div align="center">
-<p>
-  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" />
-  <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white" />
-  <img src="https://img.shields.io/badge/HuggingFace_Transformers-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" />
-  <img src="https://img.shields.io/badge/NLP-8E44AD?style=for-the-badge&logo=openai&logoColor=white" />
-</p>
+<img src="https://skillicons.dev/icons?i=pytorch,sklearn" height="48"/>
+&nbsp;&nbsp;
+<img src="https://registry.npmmirror.com/@lobehub/icons-static-png/latest/files/dark/huggingface-color.png" height="48" title="HuggingFace Transformers"/>
+&nbsp;&nbsp;
+<img src="https://registry.npmmirror.com/@lobehub/icons-static-png/latest/files/dark/openai-color.png" height="48" title="NLP / OpenAI"/>
 </div>
 
 ###  Backend & Infrastructure
 <div align="center">
-<p>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" />
-  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" />
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
-  <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white" />
-  <img src="https://img.shields.io/badge/AWS_EC2-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" />
-  <img src="https://img.shields.io/badge/AWS_S3-569A31?style=for-the-badge&logo=amazons3&logoColor=white" />
-  <img src="https://img.shields.io/badge/Kafka-231F20?style=for-the-badge&logo=apachekafka&logoColor=white" />
-</p>
+<img src="https://skillicons.dev/icons?i=python,fastapi,postgres,docker,githubactions,aws,kafka,linux&perline=8" height="48"/>
 </div>
 
 ---
