@@ -11,7 +11,7 @@
 <br/>
 
 <!-- Profile Badges -->
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/mohit-chandra-fulara-a206572)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/mohit-chandra-fulara-a20657280)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/2005mohit)
 [![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:Mohitfulara2005@gmail.com)
 
@@ -19,29 +19,30 @@
 
 ---
 
-##  About Me
+## About Me
 
 ```python
 mohit = {
     "location":     "Dwarka, Delhi 🇮🇳",
     "education":    "MCA (AI/ML) @ K.R. Mangalam University | B.Sc Biotech @ HIMT",
-    "focus":        ["Agentic AI", "Multi-Agent Systems", "RAG Pipelines", "LLMOps"],
-    "building":     "Production-grade AI — from model integration to cloud deployment",
-    "stack":        "LangGraph · LangChain · FastAPI · Docker · AWS · Kafka",
+    "core_field":   "Cloud & DevOps",
+    "also_skilled": ["Agentic AI", "Multi-Agent Systems", "RAG Pipelines"],
+    "building":     "Cloud-native automation and agentic AI systems — from infra to inference",
+    "stack":        "AWS · Kubernetes · Docker · Terraform · ArgoCD · LangGraph · LangChain",
     "currently":    "Pursuing MCA 2025–2027, specializing in AI/ML & Agentic Architecture",
 }
 ```
 
-> AI Engineer specializing in agentic systems and multi-agent architectures. Built production-grade Multi-Agent SOC Platform, Agentic RAG pipelines, and AI detection systems from scratch using LangGraph, LangChain, and FastAPI. Experienced in full-stack AI development from model integration to deployment with Docker and AWS.
+> Building agentic AI systems and cloud-native automation — including a Multi-Agent SOC Platform (LangGraph, LangChain, RAG) for automated threat detection, and a Kubernetes-based microservices platform with full CI/CD, GitOps, and observability. Hands-on across AI orchestration, cloud infrastructure, and deployment using Docker, Terraform, ArgoCD, and AWS.
 
 ---
 
-##  Projects
+## Projects
 
-###  Multi-Agent AI SOC Platform
+### Multi-Agent AI SOC Platform
 > Automated end-to-end incident response with stateful LangGraph pipeline
 
-- Architected a **4-agent LangGraph pipeline** → `Kafka Stream → Correlation Agent → Intelligence Agent → Risk Agent → Response Agent`
+- Architected a **4-agent LangGraph pipeline** → `Kafka Stream → Correlation Agent → Intelligence Agent → Risk Agent → Response Agent`, enabling automated end-to-end incident response workflows with stateful checkpointing for failure recovery
 - Built threat intelligence layer using **RAG over MITRE ATT&CK** knowledge base — reduced manual incident triage time by **60%**
 - Processes **500+ security log events per pipeline run** with automated risk scoring
 
@@ -49,59 +50,57 @@ mohit = {
 
 ---
 
-###  AI-Generated Content Detection System *(Text + Image)*
-> Multimodal AI pipeline achieving 91% accuracy on test set
+### Cloud-Native Microservices Platform on Kubernetes
+> 10+ service microservices platform with full CI/CD, GitOps, and observability
 
-- Built with **chatgpt-detector-roberta** for text classification and **EfficientNet** for image inconsistency scoring
-- End-to-end ML pipeline: preprocessing → tokenization → feature extraction → model evaluation (Accuracy, Precision, Recall, F1, ROC-AUC)
-- Reduced **manual review workload by 70%**
+- Built and deployed a **10+ service microservices platform** on Kubernetes (EKS) using Docker, Helm, and Terraform
+- Automated **CI/CD and GitOps delivery** with GitHub Actions, ECR, and ArgoCD — enabling fast, reliable rollbacks
+- Secured cloud networking with **VPCs, Ingress, TLS, and Route53** for scalable service communication
+- Achieved **99% uptime** through full observability with Prometheus, Grafana, and ELK
+- Resolved production issues via root-cause analysis across Linux, Kubernetes, and networking layers
 
-`Python` `Hello-SimpleAI` `chatgpt-detector-roberta` `EfficientNet` `HuggingFace` `Scikit-learn`
-
----
-
-###  AI-Based Legal Document Summarizer *(RAG + LLM)*
-> Intelligent extraction of executive summaries, key risks & contractual obligations
-
-- Developed AI system to analyze **multi-page legal documents** — cut manual review from hours to **under 5 minutes per document**
-- Implemented RAG pipeline with vector embeddings, similarity search, document ingestion, chunking & querying
-- Designed document ingestion pipeline handling **50+ page PDFs** with RecursiveCharacterTextSplitter — improved retrieval accuracy by **35%**
-
-`Python` `LangChain` `FAISS` `OpenAI/Ollama` `HuggingFace` `PyPDF2` `RecursiveCharacterTextSplitter` `FastAPI`
+`AWS (EKS, ECR, Route53)` `Kubernetes` `Docker` `Terraform` `Helm` `GitHub Actions` `ArgoCD` `Prometheus` `Grafana` `ELK`
 
 ---
-##  Tech Arsenal
 
-###  Agentic AI
+## Tech Arsenal
+
+### Cloud & DevOps
 <div align="center">
 
-![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat&logo=langchain&logoColor=white) ![LangGraph](https://img.shields.io/badge/LangGraph-FF6B35?style=flat&logo=python&logoColor=white) ![AutoGen](https://img.shields.io/badge/AutoGen-412991?style=flat&logo=openai&logoColor=white) ![ReAct](https://img.shields.io/badge/ReAct-00B4D8?style=flat&logo=amazonwebservices&logoColor=white) ![Multi-Agent](https://img.shields.io/badge/Multi--Agent_Orchestration-6C3483?style=flat&logo=amazonwebservices&logoColor=white) ![Tool Integration](https://img.shields.io/badge/Tool_Integration-2C3E50?style=flat&logo=zapier&logoColor=white) ![Agent State](https://img.shields.io/badge/Agent_State_Management-1A1A2E?style=flat&logo=python&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazonaws&logoColor=white) ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat&logo=kubernetes&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white) ![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=flat&logo=terraform&logoColor=white) ![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=flat&logo=jenkins&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat&logo=githubactions&logoColor=white) ![ArgoCD](https://img.shields.io/badge/ArgoCD_(GitOps)-EF7B4D?style=flat&logo=argo&logoColor=white) ![CI/CD](https://img.shields.io/badge/CI%2FCD_Pipeline_Design-2C3E50?style=flat&logo=githubactions&logoColor=white)
 
 </div>
 
-###  LLMs & RAG
+### Infrastructure & Automation
 <div align="center">
 
-![RAG](https://img.shields.io/badge/RAG-FF4B4B?style=flat&logo=databricks&logoColor=white) ![FAISS](https://img.shields.io/badge/FAISS-0078D4?style=flat&logo=meta&logoColor=white) ![ChromaDB](https://img.shields.io/badge/ChromaDB-FF6B6B?style=flat&logo=databricks&logoColor=white) ![Pinecone](https://img.shields.io/badge/Pinecone-000000?style=flat&logo=pinecone&logoColor=white) ![Embeddings](https://img.shields.io/badge/Embeddings-8E44AD?style=flat&logo=openai&logoColor=white) ![Fine-Tuning](https://img.shields.io/badge/Fine--Tuning-E74C3C?style=flat&logo=huggingface&logoColor=white) ![Prompt Engineering](https://img.shields.io/badge/Prompt_Engineering-F39C12?style=flat&logo=openai&logoColor=white) ![Ollama](https://img.shields.io/badge/Ollama-1A1A2E?style=flat&logo=ollama&logoColor=white) ![Llama3](https://img.shields.io/badge/Llama3-0467DF?style=flat&logo=meta&logoColor=white) ![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21E?style=flat&logo=huggingface&logoColor=black)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black) ![Bash](https://img.shields.io/badge/Bash_Scripting-4EAA25?style=flat&logo=gnubash&logoColor=white) ![Networking](https://img.shields.io/badge/Networking-1A1A2E?style=flat&logo=cisco&logoColor=white) ![IaC](https://img.shields.io/badge/Infrastructure_as_Code-7B42BC?style=flat&logo=terraform&logoColor=white) ![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=flat&logo=prometheus&logoColor=white) ![Grafana](https://img.shields.io/badge/Grafana-F46800?style=flat&logo=grafana&logoColor=white) ![Observability](https://img.shields.io/badge/Monitoring_%26_Observability-2C3E50?style=flat&logo=grafana&logoColor=white)
 
 </div>
 
-###  ML & Deep Learning
+### Agentic AI
 <div align="center">
 
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white) ![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat&logo=scikitlearn&logoColor=white) ![HuggingFace Transformers](https://img.shields.io/badge/HuggingFace_Transformers-FFD21E?style=flat&logo=huggingface&logoColor=black) ![NLP](https://img.shields.io/badge/NLP-8E44AD?style=flat&logo=openai&logoColor=white) ![Feature Extraction](https://img.shields.io/badge/Feature_Extraction-2ECC71?style=flat&logo=tensorflow&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat&logo=langchain&logoColor=white) ![LangGraph](https://img.shields.io/badge/LangGraph-FF6B35?style=flat&logo=python&logoColor=white) ![Multi-Agent](https://img.shields.io/badge/Multi--Agent_Systems-6C3483?style=flat&logo=amazonwebservices&logoColor=white) ![Agent Orchestration](https://img.shields.io/badge/Agent_Orchestration-1A1A2E?style=flat&logo=python&logoColor=white) ![RAG](https://img.shields.io/badge/RAG-FF4B4B?style=flat&logo=databricks&logoColor=white)
 
 </div>
 
-###  Backend & Infrastructure
+### Backend & Data
 <div align="center">
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat&logo=githubactions&logoColor=white) ![AWS EC2](https://img.shields.io/badge/AWS_EC2-FF9900?style=flat&logo=amazonec2&logoColor=white) ![AWS S3](https://img.shields.io/badge/AWS_S3-569A31?style=flat&logo=amazons3&logoColor=white) ![Kafka](https://img.shields.io/badge/Kafka-231F20?style=flat&logo=apachekafka&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white) ![Kafka](https://img.shields.io/badge/Kafka-231F20?style=flat&logo=apachekafka&logoColor=white)
 
 </div>
 
+### Programming
+<div align="center">
 
-##  GitHub Statistics
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat&logo=gnubash&logoColor=white) ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+
+</div>
+
+## GitHub Statistics
 
 <div align="center">
 
