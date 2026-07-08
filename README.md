@@ -29,7 +29,6 @@ mohit = {
     "also_skilled": ["Agentic AI", "Multi-Agent Systems", "RAG Pipelines"],
     "building":     "Cloud-native automation and agentic AI systems — from infra to inference",
     "stack":        "AWS · Kubernetes · Docker · Terraform · ArgoCD · LangGraph · LangChain",
-    "currently":    "Pursuing MCA 2025–2027, specializing in AI/ML & Agentic Architecture",
 }
 ```
 
