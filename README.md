@@ -1,11 +1,11 @@
 <div align="center">
 
 <!-- Animated Header Banner -->
-<img <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=Mohit%20Chandra%20Fulara&fontSize=42&fontColor=ffffff&fontAlignY=38&desc=Cloud%20and%20DevOps%20Engineer%20%7C%20Agentic%20AI%20%7C%20Kubernetes%20and%20AWS&descAlignY=58&descSize=16&animation=fadeIn"  />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=Mohit%20Chandra%20Fulara&fontSize=42&fontColor=ffffff&fontAlignY=38&desc=Cloud%20and%20DevOps%20Engineer%20%7C%20Agentic%20AI%20%7C%20Kubernetes%20and%20AWS&descAlignY=58&descSize=16&animation=fadeIn"  />
 
 <!-- Typing Animation -->
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=4FC3F7&center=true&vCenter=true&width=700&lines=Cloud+%26+DevOps+Engineer+%7C+AI+Enthusiast;AWS+%7C+Kubernetes+%7C+Docker+%7C+Terraform;CI%2FCD+%7C+GitOps+%7C+ArgoCD+%7C+Observability;Exploring+Agentic+AI+%7C+LangGraph+%7C+RAG" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=4FC3F7&center=true&vCenter=true&width=700&lines=Cloud+%26+DevOps+Engineer+%7C;AWS+%7C+Kubernetes+%7C+Docker+%7C+Terraform;CI%2FCD+%7C+GitOps+%7C+ArgoCD+%7C+Observability;Exploring+Agentic+AI+%7C+LangGraph+%7C+RAG" alt="Typing SVG" />
 </a>
 
 <br/>
