@@ -5,7 +5,7 @@
 
 <!-- Typing Animation -->
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=4FC3F7&center=true&vCenter=true&width=700&lines=Building+Production-Grade+AI+Systems;LangGraph+%7C+LangChain+%7C+FastAPI+%7C+RAG;Multi-Agent+SOC+Platforms+%7C+Agentic+RAG;Docker+%7C+AWS+%7C+Kafka+%7C+Vector+DBs" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=4FC3F7&center=true&vCenter=true&width=700&lines=Cloud+%26+DevOps+Engineer+%7C+AI+Enthusiast;AWS+%7C+Kubernetes+%7C+Docker+%7C+Terraform;CI%2FCD+%7C+GitOps+%7C+ArgoCD+%7C+Observability;Exploring+Agentic+AI+%7C+LangGraph+%7C+RAG" alt="Typing SVG" />
 </a>
 
 <br/>
