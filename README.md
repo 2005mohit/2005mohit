@@ -1,11 +1,11 @@
 <div align="center">
 
 <!-- Animated Header Banner -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=Mohit%20Chandra%20Fulara&fontSize=42&fontColor=ffffff&fontAlignY=38&desc=Cloud%20and%20DevOps%20Engineer%20%7C%20Agentic%20AI%20%7C%20Kubernetes%20and%20AWS&descAlignY=58&descSize=16&animation=fadeIn"  />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=Mohit%20Chandra%20Fulara&fontSize=42&fontColor=ffffff&fontAlignY=38&desc=Cloud%2C%20DevOps%20%26%20AI%20Governance%20Engineer%20%7C%20Agentic%20AI%20%7C%20Bioinformatics&descAlignY=58&descSize=16&animation=fadeIn"  />
 
 <!-- Typing Animation -->
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=4FC3F7&center=true&vCenter=true&width=700&lines=Cloud+%26+DevOps+Engineer+%7C;AWS+%7C+Kubernetes+%7C+Docker+%7C+Terraform;CI%2FCD+%7C+GitOps+%7C+ArgoCD+%7C+Observability;Exploring+Agentic+AI+%7C+LangGraph+%7C+RAG" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=4FC3F7&center=true&vCenter=true&width=750&lines=Cloud+%26+DevOps+Engineer+%7C;AWS+%7C+Kubernetes+%7C+Docker+%7C+Terraform;CI%2FCD+%7C+GitOps+%7C+ArgoCD+%7C+Observability;Building+Agentic+AI+%26+EU+AI+Act+Governance+Platforms;Bioinformatics+%7C+Genomics+%7C+Computational+Biology" alt="Typing SVG" />
 </a>
 
 <br/>
@@ -25,18 +25,32 @@
 mohit = {
     "location":     "Dwarka, Delhi 🇮🇳",
     "education":    "MCA (AI/ML) @ K.R. Mangalam University | B.Sc Biotech @ HIMT",
-    "core_field":   "Cloud & DevOps",
-    "also_skilled": ["Agentic AI", "Multi-Agent Systems", "RAG Pipelines"],
-    "building":     "Cloud-native automation and agentic AI systems — from infra to inference",
+    "core_field":   "Cloud, DevOps & Network Security",
+    "also_skilled": ["AI Compliance & Governance", "Agentic AI", "Multi-Agent Systems", "RAG Pipelines", "Bioinformatics"],
+    "building":     "Cloud-native automation, agentic AI systems, and AI governance platforms — from infra to inference",
     "stack":        "AWS · Kubernetes · Docker · Terraform · ArgoCD · LangGraph · LangChain",
 }
 ```
 
-> Building agentic AI systems and cloud-native automation — including a Multi-Agent SOC Platform (LangGraph, LangChain, RAG) for automated threat detection, and a Kubernetes-based microservices platform with full CI/CD, GitOps, and observability. Hands-on across AI orchestration, cloud infrastructure, and deployment using Docker, Terraform, ArgoCD, and AWS.
+> Cloud & DevOps engineer working across infrastructure automation, network security, and agentic AI. Currently building an **AI Compliance & Governance Automation Platform** that combines a LangGraph multi-agent engine with a full EU AI Act audit workflow, alongside a **Multi-Agent SOC Platform** for automated threat detection and a **Kubernetes-based microservices platform** with full CI/CD, GitOps, and observability. Background in biotechnology also drives an interest in applying the same cloud-security and pipeline-automation practices to bioinformatics and genomics workloads.
 
 ---
 
 ## Projects
+
+### AI Compliance & Governance Automation Platform
+> Multi-agent, EU AI Act-aligned governance system — from continuous risk detection to consultant-grade audit deliverables
+
+- Designed a **secure, multi-tenant microservices architecture** on AWS (VPC-isolated public/private/data subnets, EKS, ALB, WAF) decoupling synchronous API traffic from async, agentic governance processing via a Redis-backed event bus
+- Built a **3-agent LangGraph governance engine** → `Scout Agent (log ingestion & normalization) → Analyst Agent (EU AI Act & NIST AI RMF risk classification) → Fixer Agent (auto-policy & remediation generation)`
+- Implemented a **zero-trust IAM model** with IRSA-based least-privilege agent roles, a runtime LLM proxy for prompt-injection/data-leak detection, and a **SHA-256 hash-chained, tamper-proof audit ledger** in PostgreSQL to meet EU AI Act auditability requirements
+- Extended the engine into a **consultant workbench**: Evidence Aggregator (cloud API + Git/AST collectors) → PII Scanner (regex + NER) → Rule Engine (Article-mapped compliance checks) → Risk Scorer → Remediation Generator → automated **Technical File / Model Card / Audit Report** generation (WeasyPrint + Jinja2)
+- Automated schema-per-tenant data isolation on RDS PostgreSQL, KMS envelope encryption, and cross-account read-only access via AWS STS / Azure Service Principals for client cloud audits
+- DevSecOps pipeline with GitHub Actions (SAST, container image scanning, IaC scanning) and ArgoCD GitOps delivery to EKS
+
+`Python` `FastAPI` `LangGraph` `LangChain` `Next.js` `PostgreSQL + pgvector` `Redis / Celery` `AWS (EKS, RDS, KMS, STS, WAF)` `Terraform` `ArgoCD` `GitHub Actions` `Keycloak / OIDC`
+
+---
 
 ### Multi-Agent AI SOC Platform
 > Automated end-to-end incident response with stateful LangGraph pipeline
@@ -62,6 +76,18 @@ mohit = {
 
 ---
 
+### Secure Cloud-Native Genomics Pipeline *(Bioinformatics × Cloud Security)*
+> Scalable, compliant sequence-analysis pipeline built on the same infra-automation and zero-trust practices used in the governance platform
+
+- Designed a **containerized NGS pipeline** (Nextflow/Snakemake orchestration) covering raw read QC, alignment, variant calling, and annotation — packaged as reproducible Docker images per pipeline stage
+- Deployed pipeline execution on **AWS Batch / EKS** with Terraform-provisioned compute, auto-scaling worker pools, and S3-backed data lake for FASTQ/BAM/VCF artifacts
+- Applied the governance platform's security patterns to genomic data: **KMS envelope encryption at rest, IRSA least-privilege roles per pipeline stage, and immutable S3 Object Lock storage** for HIPAA/GxP-aligned handling of sensitive sequencing data
+- Automated pipeline CI with GitHub Actions (container scanning, workflow linting) and GitOps-style versioned pipeline releases
+
+`Nextflow / Snakemake` `Biopython` `GATK` `BWA / Bowtie2` `Samtools` `AWS Batch` `AWS S3 + KMS` `Docker` `Terraform`
+
+---
+
 ## Tech Arsenal
 
 ### Cloud & DevOps
@@ -78,10 +104,10 @@ mohit = {
 
 </div>
 
-### Agentic AI
+### Agentic AI & Governance
 <div align="center">
 
-![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat&logo=langchain&logoColor=white) ![LangGraph](https://img.shields.io/badge/LangGraph-FF6B35?style=flat&logo=python&logoColor=white) ![Multi-Agent](https://img.shields.io/badge/Multi--Agent_Systems-6C3483?style=flat&logo=amazonwebservices&logoColor=white) ![Agent Orchestration](https://img.shields.io/badge/Agent_Orchestration-1A1A2E?style=flat&logo=python&logoColor=white) ![RAG](https://img.shields.io/badge/RAG-FF4B4B?style=flat&logo=databricks&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat&logo=langchain&logoColor=white) ![LangGraph](https://img.shields.io/badge/LangGraph-FF6B35?style=flat&logo=python&logoColor=white) ![Multi-Agent](https://img.shields.io/badge/Multi--Agent_Systems-6C3483?style=flat&logo=amazonwebservices&logoColor=white) ![Agent Orchestration](https://img.shields.io/badge/Agent_Orchestration-1A1A2E?style=flat&logo=python&logoColor=white) ![RAG](https://img.shields.io/badge/RAG-FF4B4B?style=flat&logo=databricks&logoColor=white) ![AI Governance](https://img.shields.io/badge/AI_Governance_%26_Compliance-0f2027?style=flat) ![EU AI Act](https://img.shields.io/badge/EU_AI_Act_%2F_NIST_AI_RMF-2C3E50?style=flat)
 
 </div>
 
@@ -96,6 +122,13 @@ mohit = {
 <div align="center">
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat&logo=gnubash&logoColor=white) ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+
+</div>
+
+### Bioinformatics & Computational Biology
+<div align="center">
+
+![Biopython](https://img.shields.io/badge/Biopython-3776AB?style=flat&logo=python&logoColor=white) ![BLAST](https://img.shields.io/badge/BLAST-005C99?style=flat&logo=biorxiv&logoColor=white) ![NGS](https://img.shields.io/badge/NGS_Data_Analysis-2C3E50?style=flat) ![GATK](https://img.shields.io/badge/GATK_(Variant_Calling)-4EAA25?style=flat) ![Samtools/BWA](https://img.shields.io/badge/Samtools_%2F_BWA_%2F_Bowtie2-1A1A2E?style=flat) ![Nextflow](https://img.shields.io/badge/Nextflow_%2F_Snakemake-24B26B?style=flat) ![R/Bioconductor](https://img.shields.io/badge/R_%2F_Bioconductor-276DC3?style=flat&logo=r&logoColor=white) ![Pandas](https://img.shields.io/badge/Pandas_%2F_NumPy-150458?style=flat&logo=pandas&logoColor=white) ![Genomics](https://img.shields.io/badge/Genome_Assembly_%26_Annotation-2C3E50?style=flat) ![Phylogenetics](https://img.shields.io/badge/Phylogenetics-7B42BC?style=flat)
 
 </div>
 
