@@ -21,17 +21,6 @@
 
 ## About Me
 
-```python
-mohit = {
-    "location":     "Dwarka, Delhi 🇮🇳",
-    "education":    "MCA (AI/ML) @ K.R. Mangalam University | B.Sc Biotech @ HIMT",
-    "core_field":   "Cloud Computing, Networking & Security, DevOps",
-    "also_skilled": ["Bioinformatics & Computational Biology", "AI Compliance & Infra Consulting", "Agentic AI", "Multi-Agent Systems", "RAG Pipelines"],
-    "role":         "AI Compliance & Infra Consultant",
-    "building":     "Cloud-native automation, AI governance platforms, and secure bioinformatics pipelines — from infra to inference",
-    "stack":        "AWS · Kubernetes · Docker · Terraform · ArgoCD · LangGraph · LangChain",
-}
-```
 
 > Working across **Cloud Computing, Networking & Security, and DevOps**, with a strong focus on **Bioinformatics & Computational Biology** and **AI Compliance & Infra Consulting**. Currently building an **AI Compliance & Governance Automation Platform** that combines a LangGraph multi-agent engine with a full EU AI Act audit workflow, alongside a **Multi-Agent SOC Platform** for automated threat detection and a **Kubernetes-based microservices platform** with full CI/CD, GitOps, and observability. A biotechnology background drives the application of the same cloud-security and pipeline-automation practices to bioinformatics and genomics workloads.
 
