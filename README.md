@@ -42,17 +42,6 @@
 
 ---
 
-### Multi-Agent AI SOC Platform
-> Automated end-to-end incident response with stateful LangGraph pipeline
-
-- Architected a **4-agent LangGraph pipeline** → `Kafka Stream → Correlation Agent → Intelligence Agent → Risk Agent → Response Agent`, enabling automated end-to-end incident response workflows with stateful checkpointing for failure recovery
-- Built threat intelligence layer using **RAG over MITRE ATT&CK** knowledge base — reduced manual incident triage time by **60%**
-- Processes **500+ security log events per pipeline run** with automated risk scoring
-
-`Python` `LangChain` `LangGraph` `FAISS` `FastAPI` `Docker` `Kafka` `Ollama` `Llama3`
-
----
-
 ### Cloud-Native Microservices Platform on Kubernetes
 > 10+ service microservices platform with full CI/CD, GitOps, and observability
 
