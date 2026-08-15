@@ -1,11 +1,11 @@
 <div align="center">
 
 <!-- Animated Header Banner -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=Mohit%20Chandra%20Fulara&fontSize=42&fontColor=ffffff&fontAlignY=38&desc=Cloud%2C%20DevOps%20%26%20AI%20Governance%20Engineer%20%7C%20Agentic%20AI%20%7C%20Bioinformatics&descAlignY=58&descSize=16&animation=fadeIn"  />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=Mohit%20Chandra%20Fulara&fontSize=42&fontColor=ffffff&fontAlignY=38&desc=Cloud%20Computing%20%7C%20Networking%20%26%20Security%20%7C%20DevOps%20%7C%20Bioinformatics%20%7C%20AI%20Compliance%20%26%20Infra%20Consultant&descAlignY=58&descSize=15&animation=fadeIn"  />
 
 <!-- Typing Animation -->
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=4FC3F7&center=true&vCenter=true&width=750&lines=Cloud+%26+DevOps+Engineer+%7C;AWS+%7C+Kubernetes+%7C+Docker+%7C+Terraform;CI%2FCD+%7C+GitOps+%7C+ArgoCD+%7C+Observability;Building+Agentic+AI+%26+EU+AI+Act+Governance+Platforms;Bioinformatics+%7C+Genomics+%7C+Computational+Biology" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=21&pause=1000&color=4FC3F7&center=true&vCenter=true&width=780&lines=Cloud+Computing+%7C+Networking+%26+Security+%7C+DevOps;AWS+%7C+Kubernetes+%7C+Docker+%7C+Terraform;CI%2FCD+%7C+GitOps+%7C+ArgoCD+%7C+Observability;Bioinformatics+%26+Computational+Biology;AI+Compliance+%26+Infra+Consultant" alt="Typing SVG" />
 </a>
 
 <br/>
@@ -25,14 +25,15 @@
 mohit = {
     "location":     "Dwarka, Delhi 🇮🇳",
     "education":    "MCA (AI/ML) @ K.R. Mangalam University | B.Sc Biotech @ HIMT",
-    "core_field":   "Cloud, DevOps & Network Security",
-    "also_skilled": ["AI Compliance & Governance", "Agentic AI", "Multi-Agent Systems", "RAG Pipelines", "Bioinformatics"],
-    "building":     "Cloud-native automation, agentic AI systems, and AI governance platforms — from infra to inference",
+    "core_field":   "Cloud Computing, Networking & Security, DevOps",
+    "also_skilled": ["Bioinformatics & Computational Biology", "AI Compliance & Infra Consulting", "Agentic AI", "Multi-Agent Systems", "RAG Pipelines"],
+    "role":         "AI Compliance & Infra Consultant",
+    "building":     "Cloud-native automation, AI governance platforms, and secure bioinformatics pipelines — from infra to inference",
     "stack":        "AWS · Kubernetes · Docker · Terraform · ArgoCD · LangGraph · LangChain",
 }
 ```
 
-> Cloud & DevOps engineer working across infrastructure automation, network security, and agentic AI. Currently building an **AI Compliance & Governance Automation Platform** that combines a LangGraph multi-agent engine with a full EU AI Act audit workflow, alongside a **Multi-Agent SOC Platform** for automated threat detection and a **Kubernetes-based microservices platform** with full CI/CD, GitOps, and observability. Background in biotechnology also drives an interest in applying the same cloud-security and pipeline-automation practices to bioinformatics and genomics workloads.
+> Working across **Cloud Computing, Networking & Security, and DevOps**, with a strong focus on **Bioinformatics & Computational Biology** and **AI Compliance & Infra Consulting**. Currently building an **AI Compliance & Governance Automation Platform** that combines a LangGraph multi-agent engine with a full EU AI Act audit workflow, alongside a **Multi-Agent SOC Platform** for automated threat detection and a **Kubernetes-based microservices platform** with full CI/CD, GitOps, and observability. A biotechnology background drives the application of the same cloud-security and pipeline-automation practices to bioinformatics and genomics workloads.
 
 ---
 
