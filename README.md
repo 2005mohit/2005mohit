@@ -43,6 +43,11 @@
 
 `Python` `FastAPI` `LangGraph` `LangChain` `Next.js` `PostgreSQL + pgvector` `Redis / Celery` `AWS (EKS, RDS, KMS, STS, WAF)` `Terraform` `ArgoCD` `GitHub Actions` `Keycloak / OIDC`
 
+<!-- DevSecOps Animation -->
+<div align="center">
+<img width="260" src="https://user-images.githubusercontent.com/74038190/221352989-518609ab-b4d1-459e-929f-a08cd2bd9b3c.gif" alt="DevSecOps security automation animation" />
+</div>
+
 ---
 
 ### Cloud-Native Microservices Platform on Kubernetes
@@ -56,6 +61,11 @@
 
 `AWS (EKS, ECR, Route53)` `Kubernetes` `Docker` `Terraform` `Helm` `GitHub Actions` `ArgoCD` `Prometheus` `Grafana` `ELK`
 
+<!-- Cloud Animation -->
+<div align="center">
+<img width="260" src="https://user-images.githubusercontent.com/74038190/212257454-16e3712e-945a-4ca2-b238-408ad0bf87e6.gif" alt="Cloud infrastructure animation" />
+</div>
+
 ---
 
 ### Secure Cloud-Native Genomics Pipeline *(Bioinformatics × Cloud Security)*
@@ -67,6 +77,11 @@
 - Automated pipeline CI with GitHub Actions (container scanning, workflow linting) and GitOps-style versioned pipeline releases
 
 `Nextflow / Snakemake` `Biopython` `GATK` `BWA / Bowtie2` `Samtools` `AWS Batch` `AWS S3 + KMS` `Docker` `Terraform`
+
+<!-- Computational Biology Animation -->
+<div align="center">
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&pause=1000&color=24B26B&center=true&vCenter=true&width=600&lines=Genome+Sequencing+%7C+Variant+Calling;NGS+Pipelines+%7C+Bioinformatics;DNA+%E2%86%92+RNA+%E2%86%92+Protein" alt="Computational Biology animated banner" />
+</div>
 
 ---
 
