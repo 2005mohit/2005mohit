@@ -3,6 +3,9 @@
 <!-- Animated Header Banner -->
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=Mohit%20Chandra%20Fulara&fontSize=42&fontColor=ffffff&fontAlignY=38&desc=Cloud%20Computing%20%7C%20Networking%20%26%20Security%20%7C%20DevOps%20%7C%20Bioinformatics%20%7C%20AI%20Compliance%20%26%20Infra%20Consultant&descAlignY=58&descSize=15&animation=fadeIn"  />
 
+<!-- Floating 3D Animation -->
+<img width="300" src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" />
+
 <!-- Typing Animation -->
 <a href="https://git.io/typing-svg">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=21&pause=1000&color=4FC3F7&center=true&vCenter=true&width=780&lines=Cloud+Computing+%7C+Networking+%26+Security+%7C+DevOps;AWS+%7C+Kubernetes+%7C+Docker+%7C+Terraform;CI%2FCD+%7C+GitOps+%7C+ArgoCD+%7C+Observability;Bioinformatics+%26+Computational+Biology;AI+Compliance+%26+Infra+Consultant" alt="Typing SVG" />
@@ -141,6 +144,9 @@
 ---
 
 <div align="center">
+
+<!-- Floating 3D Animation -->
+<img width="300" src="https://user-images.githubusercontent.com/74038190/213910845-af37a709-8995-40d6-be59-724526e3c3d7.gif" />
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,50:203a43,100:0f2027&height=120&section=footer&animation=fadeIn" />
 
