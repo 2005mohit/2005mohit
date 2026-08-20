@@ -3,8 +3,8 @@
 <!-- Animated Header Banner -->
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=Mohit%20Chandra%20Fulara&fontSize=42&fontColor=ffffff&fontAlignY=38&desc=Cloud%20Computing%20%7C%20Networking%20%26%20Security%20%7C%20DevOps%20%7C%20Bioinformatics%20%7C%20AI%20Compliance%20%26%20Infra%20Consultant&descAlignY=58&descSize=15&animation=fadeIn"  />
 
-<!-- Floating 3D Animation -->
-<img width="300" src="https://user-images.githubusercontent.com/74038190/221352987-68da234d-4d62-4e9d-9d7f-098dc657c2dc.gif" />
+<!-- Wave Divider (replaces old floating graph GIF) -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,50:203a43,100:0f2027&height=120&section=header&animation=fadeIn" />
 
 <!-- Typing Animation -->
 <a href="https://git.io/typing-svg">
@@ -120,12 +120,6 @@
 
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=2005mohit&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=4FC3F7&icon_color=4FC3F7&text_color=c9d1d9" />
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=2005mohit&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=4FC3F7&text_color=c9d1d9" />
-
-</div>
-
-<div align="center">
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=2005mohit&theme=tokyonight&hide_border=true&background=0d1117&ring=4FC3F7&fire=4FC3F7&currStreakLabel=4FC3F7)](https://git.io/streak-stats)
 
 </div>
 
