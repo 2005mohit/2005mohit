@@ -55,18 +55,6 @@
 
 ---
 
-### Genomics Data Analysis Pipeline *(Bioinformatics)*
-> Applying structured data-analysis practices to sequence and variant-level genomic data
-
-- Processed **NGS pipeline outputs** (raw read QC, alignment, variant calling, annotation) into analysis-ready tabular datasets
-- Used **Biopython, Samtools, and GATK** outputs as the data source for downstream statistical and exploratory analysis
-- Ran **variant-level and sample-level exploratory analysis** to summarize sequencing quality metrics and variant distributions
-- Automated reproducible pipeline runs via **Nextflow/Snakemake**, with cloud storage (AWS S3) for FASTQ/BAM/VCF data artifacts
-
-`Nextflow / Snakemake` `Biopython` `GATK` `BWA / Bowtie2` `Samtools` `Python` `AWS S3` `R / Bioconductor`
-
----
-
 ## Tech Arsenal
 
 ### Data Analytics & BI
