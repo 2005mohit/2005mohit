@@ -1,11 +1,11 @@
 <div align="center">
 
 <!-- Animated Header Banner -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,50:203a43,100:0f2027&height=200&section=header&text=Mohit%20Chandra%20Fulara&fontSize=42&fontColor=ffffff&fontAlignY=38&desc=Cloud%20%7C%20Security%20%7C%20DevOps%20%7C%20Bioinformatics%20%7C%20AI%20Compliance&descAlignY=58&descSize=15&animation=fadeIn"  />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,50:203a43,100:0f2027&height=200&section=header&text=Mohit%20Chandra%20Fulara&fontSize=42&fontColor=ffffff&fontAlignY=38&desc=Data%20Analytics%20%7C%20Bioinformatics%20%7C%20Healthcare%20Analytics%20%7C%20ML&descAlignY=58&descSize=15&animation=fadeIn"  />
 
 <!-- Typing Animation -->
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=21&pause=1000&color=4FC3F7&center=true&vCenter=true&width=780&lines=Cloud+Computing+%7C+Networking+%26+Security+%7C+DevOps;AWS+%7C+Kubernetes+%7C+Docker+%7C+Terraform;CI%2FCD+%7C+GitOps+%7C+ArgoCD+%7C+Observability;Bioinformatics+%26+Computational+Biology;AI+Compliance+%26+Infra+Consultant" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=21&pause=1000&color=4FC3F7&center=true&vCenter=true&width=780&lines=Data+Analytics+%7C+SQL+%2B+Python+%2B+Statistics;Machine+Learning+%7C+Classification+%2B+Survival+Analysis;Power+BI+%7C+Dashboards+%26+Business+Storytelling;Bioinformatics+%26+Computational+Biology;Healthcare+%26+Clinical+Data+Analysis" alt="Typing SVG" />
 </a>
 
 <br/>
@@ -21,97 +21,88 @@
 
 ## About Me
 
-
-> Working across **Cloud Computing, Networking & Security, and DevOps**, with a strong focus on **Bioinformatics & Computational Biology** and **AI Compliance & Infra Consulting**. Currently building an **AI Compliance & Governance Automation Platform** that combines a LangGraph multi-agent engine with a full EU AI Act audit workflow, alongside a **Multi-Agent SOC Platform** for automated threat detection and a **Kubernetes-based microservices platform** with full CI/CD, GitOps, and observability. A biotechnology background drives the application of the same cloud-security and pipeline-automation practices to bioinformatics and genomics workloads.
+> Data Analyst with a **B.Sc Biotechnology background**, focused on turning raw data into decision-ready insights across both **generic cross-industry problems** (churn, retention, customer behavior) and **healthcare/biotech-specific problems** (clinical trial attrition, patient outcomes, genomic data). Comfortable across the full analytics pipeline — **SQL for extraction, Python/pandas for cleaning and feature engineering, statistical testing and survival analysis for inference, scikit-learn + SHAP for interpretable machine learning, and Power BI for business-facing dashboards.** A biotechnology foundation drives an added interest in applying rigorous statistical methods (Kaplan-Meier, Cox regression) to clinical and genomic datasets — bridging domain knowledge with modern data-analytics tooling.
 
 ---
 
 ## Projects
 
-### AI Compliance & Governance Automation Platform
-> Multi-agent, EU AI Act-aligned governance system — from continuous risk detection to consultant-grade audit deliverables
+### Customer Churn & Retention Analysis *(Cross-Industry)*
+> Predicting which customers are about to leave — and translating that prediction into a retention-cost business case
 
-- Designed a **secure, multi-tenant microservices architecture** on AWS (VPC-isolated public/private/data subnets, EKS, ALB, WAF) decoupling synchronous API traffic from async, agentic governance processing via a Redis-backed event bus
-- Built a **3-agent LangGraph governance engine** → `Scout Agent (log ingestion & normalization) → Analyst Agent (EU AI Act & NIST AI RMF risk classification) → Fixer Agent (auto-policy & remediation generation)`
-- Implemented a **zero-trust IAM model** with IRSA-based least-privilege agent roles, a runtime LLM proxy for prompt-injection/data-leak detection, and a **SHA-256 hash-chained, tamper-proof audit ledger** in PostgreSQL to meet EU AI Act auditability requirements
-- Extended the engine into a **consultant workbench**: Evidence Aggregator (cloud API + Git/AST collectors) → PII Scanner (regex + NER) → Rule Engine (Article-mapped compliance checks) → Risk Scorer → Remediation Generator → automated **Technical File / Model Card / Audit Report** generation (WeasyPrint + Jinja2)
-- Automated schema-per-tenant data isolation on RDS PostgreSQL, KMS envelope encryption, and cross-account read-only access via AWS STS / Azure Service Principals for client cloud audits
-- DevSecOps pipeline with GitHub Actions (SAST, container image scanning, IaC scanning) and ArgoCD GitOps delivery to EKS
+- Performed **exploratory data analysis** on customer churn patterns across tenure, contract type, pricing plan, and usage behavior
+- Ran **statistical hypothesis testing** (chi-square, logistic regression significance) to identify which factors are *significantly* associated with churn, not just correlated by chance
+- Built a **classification model** (Logistic Regression / Random Forest) to score each customer's churn probability
+- Used **SHAP (SHapley Additive exPlanations)** to make predictions interpretable — explaining *why* a specific customer is flagged as high-risk
+- Translated model output into a **cost-impact framework**: estimated revenue saved by retaining high-risk customers vs. the cost of acquiring replacements
+- Delivered a **business-facing Power BI dashboard** giving the retention team clear, segment-level "who to target and why" recommendations
 
-`Python` `FastAPI` `LangGraph` `LangChain` `Next.js` `PostgreSQL + pgvector` `Redis / Celery` `AWS (EKS, RDS, KMS, STS, WAF)` `Terraform` `ArgoCD` `GitHub Actions` `Keycloak / OIDC`
-
----
-
-### Cloud-Native Microservices Platform on Kubernetes
-> 10+ service microservices platform with full CI/CD, GitOps, and observability
-
-- Built and deployed a **10+ service microservices platform** on Kubernetes (EKS) using Docker, Helm, and Terraform
-- Automated **CI/CD and GitOps delivery** with GitHub Actions, ECR, and ArgoCD — enabling fast, reliable rollbacks
-- Secured cloud networking with **VPCs, Ingress, TLS, and Route53** for scalable service communication
-- Achieved **99% uptime** through full observability with Prometheus, Grafana, and ELK
-- Resolved production issues via root-cause analysis across Linux, Kubernetes, and networking layers
-
-`AWS (EKS, ECR, Route53)` `Kubernetes` `Docker` `Terraform` `Helm` `GitHub Actions` `ArgoCD` `Prometheus` `Grafana` `ELK`
+`Python` `pandas` `scikit-learn` `SHAP` `SQL` `BigQuery` `Power BI` `scipy.stats`
 
 ---
 
-### Secure Cloud-Native Genomics Pipeline *(Bioinformatics × Cloud Security)*
-> Scalable, compliant sequence-analysis pipeline built on the same infra-automation and zero-trust practices used in the governance platform
+### Clinical Trial Patient Dropout Analysis *(Biotech / Pharma)*
+> Modeling not just *if* a trial patient will drop out, but *when* — using survival analysis techniques rarely seen in entry-level analytics portfolios
 
-- Designed a **containerized NGS pipeline** (Nextflow/Snakemake orchestration) covering raw read QC, alignment, variant calling, and annotation — packaged as reproducible Docker images per pipeline stage
-- Deployed pipeline execution on **AWS Batch / EKS** with Terraform-provisioned compute, auto-scaling worker pools, and S3-backed data lake for FASTQ/BAM/VCF artifacts
-- Applied the governance platform's security patterns to genomic data: **KMS envelope encryption at rest, IRSA least-privilege roles per pipeline stage, and immutable S3 Object Lock storage** for HIPAA/GxP-aligned handling of sensitive sequencing data
-- Automated pipeline CI with GitHub Actions (container scanning, workflow linting) and GitOps-style versioned pipeline releases
+- Analyzed dropout patterns across **trial phase, treatment arm, demographic group, and adverse-event occurrence**
+- Applied **Kaplan-Meier survival analysis** to estimate patient retention probability over time and compared survival curves across treatment arms
+- Used **Cox Proportional Hazards regression** to identify which covariates (age, dosage, site, comorbidity) significantly increase dropout risk
+- Built a **dropout-risk prediction model** to flag high-risk patients at a given point in the trial timeline
+- Translated statistical findings into an **actionable framework for trial coordinators** (e.g., intervention timing, at-risk subgroups)
+- Delivered a **Power BI dashboard** summarizing survival/retention trends for a non-technical clinical operations audience
 
-`Nextflow / Snakemake` `Biopython` `GATK` `BWA / Bowtie2` `Samtools` `AWS Batch` `AWS S3 + KMS` `Docker` `Terraform`
+`Python` `lifelines` `statsmodels` `scikit-learn` `SQL` `BigQuery` `Power BI`
+
+---
+
+### Genomics Data Analysis Pipeline *(Bioinformatics)*
+> Applying structured data-analysis practices to sequence and variant-level genomic data
+
+- Processed **NGS pipeline outputs** (raw read QC, alignment, variant calling, annotation) into analysis-ready tabular datasets
+- Used **Biopython, Samtools, and GATK** outputs as the data source for downstream statistical and exploratory analysis
+- Ran **variant-level and sample-level exploratory analysis** to summarize sequencing quality metrics and variant distributions
+- Automated reproducible pipeline runs via **Nextflow/Snakemake**, with cloud storage (AWS S3) for FASTQ/BAM/VCF data artifacts
+
+`Nextflow / Snakemake` `Biopython` `GATK` `BWA / Bowtie2` `Samtools` `Python` `AWS S3` `R / Bioconductor`
 
 ---
 
 ## Tech Arsenal
 
-### Cloud & DevOps
+### Data Analytics & BI
 <div align="center">
 
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazonaws&logoColor=white) ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat&logo=kubernetes&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white) ![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=flat&logo=terraform&logoColor=white) ![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=flat&logo=jenkins&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat&logo=githubactions&logoColor=white) ![ArgoCD](https://img.shields.io/badge/ArgoCD_(GitOps)-EF7B4D?style=flat&logo=argo&logoColor=white) ![CI/CD](https://img.shields.io/badge/CI%2FCD_Pipeline_Design-2C3E50?style=flat&logo=githubactions&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=postgresql&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) ![Pandas](https://img.shields.io/badge/Pandas_%2F_NumPy-150458?style=flat&logo=pandas&logoColor=white) ![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=flat&logo=powerbi&logoColor=black) ![Excel](https://img.shields.io/badge/Excel_(Advanced)-217346?style=flat&logo=microsoftexcel&logoColor=white) ![BigQuery](https://img.shields.io/badge/BigQuery-4285F4?style=flat&logo=googlebigquery&logoColor=white)
 
 </div>
 
-### Infrastructure & Automation
+### Statistics & Machine Learning
 <div align="center">
 
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black) ![Bash](https://img.shields.io/badge/Bash_Scripting-4EAA25?style=flat&logo=gnubash&logoColor=white) ![Networking](https://img.shields.io/badge/Networking-1A1A2E?style=flat&logo=cisco&logoColor=white) ![IaC](https://img.shields.io/badge/Infrastructure_as_Code-7B42BC?style=flat&logo=terraform&logoColor=white) ![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=flat&logo=prometheus&logoColor=white) ![Grafana](https://img.shields.io/badge/Grafana-F46800?style=flat&logo=grafana&logoColor=white) ![Observability](https://img.shields.io/badge/Monitoring_%26_Observability-2C3E50?style=flat&logo=grafana&logoColor=white)
-
-</div>
-
-### Agentic AI & Governance
-<div align="center">
-
-![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat&logo=langchain&logoColor=white) ![LangGraph](https://img.shields.io/badge/LangGraph-FF6B35?style=flat&logo=python&logoColor=white) ![Multi-Agent](https://img.shields.io/badge/Multi--Agent_Systems-6C3483?style=flat&logo=amazonwebservices&logoColor=white) ![Agent Orchestration](https://img.shields.io/badge/Agent_Orchestration-1A1A2E?style=flat&logo=python&logoColor=white) ![RAG](https://img.shields.io/badge/RAG-FF4B4B?style=flat&logo=databricks&logoColor=white) ![AI Governance](https://img.shields.io/badge/AI_Governance_%26_Compliance-0f2027?style=flat) ![EU AI Act](https://img.shields.io/badge/EU_AI_Act_%2F_NIST_AI_RMF-2C3E50?style=flat)
-
-</div>
-
-### Backend & Data
-<div align="center">
-
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white) ![Kafka](https://img.shields.io/badge/Kafka-231F20?style=flat&logo=apachekafka&logoColor=white)
-
-</div>
-
-### Programming
-<div align="center">
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat&logo=gnubash&logoColor=white) ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat&logo=scikitlearn&logoColor=white) ![SHAP](https://img.shields.io/badge/SHAP_(Interpretability)-6C3483?style=flat) ![Hypothesis Testing](https://img.shields.io/badge/Hypothesis_Testing-2C3E50?style=flat) ![Survival Analysis](https://img.shields.io/badge/Survival_Analysis_(Kaplan--Meier%2FCox)-24B26B?style=flat) ![statsmodels](https://img.shields.io/badge/statsmodels-2C3E50?style=flat&logo=python&logoColor=white) ![lifelines](https://img.shields.io/badge/lifelines-24B26B?style=flat)
 
 </div>
 
 ### Bioinformatics & Computational Biology
 <div align="center">
 
-![Biopython](https://img.shields.io/badge/Biopython-3776AB?style=flat&logo=python&logoColor=white) ![BLAST](https://img.shields.io/badge/BLAST-005C99?style=flat&logo=biorxiv&logoColor=white) ![NGS](https://img.shields.io/badge/NGS_Data_Analysis-2C3E50?style=flat) ![GATK](https://img.shields.io/badge/GATK_(Variant_Calling)-4EAA25?style=flat) ![Samtools/BWA](https://img.shields.io/badge/Samtools_%2F_BWA_%2F_Bowtie2-1A1A2E?style=flat) ![Nextflow](https://img.shields.io/badge/Nextflow_%2F_Snakemake-24B26B?style=flat) ![R/Bioconductor](https://img.shields.io/badge/R_%2F_Bioconductor-276DC3?style=flat&logo=r&logoColor=white) ![Pandas](https://img.shields.io/badge/Pandas_%2F_NumPy-150458?style=flat&logo=pandas&logoColor=white) ![Genomics](https://img.shields.io/badge/Genome_Assembly_%26_Annotation-2C3E50?style=flat) ![Phylogenetics](https://img.shields.io/badge/Phylogenetics-7B42BC?style=flat)
+![Biopython](https://img.shields.io/badge/Biopython-3776AB?style=flat&logo=python&logoColor=white) ![BLAST](https://img.shields.io/badge/BLAST-005C99?style=flat&logo=biorxiv&logoColor=white) ![NGS](https://img.shields.io/badge/NGS_Data_Analysis-2C3E50?style=flat) ![GATK](https://img.shields.io/badge/GATK_(Variant_Calling)-4EAA25?style=flat) ![Samtools/BWA](https://img.shields.io/badge/Samtools_%2F_BWA_%2F_Bowtie2-1A1A2E?style=flat) ![Nextflow](https://img.shields.io/badge/Nextflow_%2F_Snakemake-24B26B?style=flat) ![R/Bioconductor](https://img.shields.io/badge/R_%2F_Bioconductor-276DC3?style=flat&logo=r&logoColor=white) ![Genomics](https://img.shields.io/badge/Genome_Assembly_%26_Annotation-2C3E50?style=flat) ![Phylogenetics](https://img.shields.io/badge/Phylogenetics-7B42BC?style=flat)
 
 </div>
 
+### Cloud & Data Infrastructure
+<div align="center">
 
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazonaws&logoColor=white) ![S3](https://img.shields.io/badge/S3-569A31?style=flat&logo=amazons3&logoColor=white) ![BigQuery](https://img.shields.io/badge/BigQuery-4285F4?style=flat&logo=googlebigquery&logoColor=white) ![Airflow](https://img.shields.io/badge/Apache_Airflow-017CEE?style=flat&logo=apacheairflow&logoColor=white)
+
+</div>
+
+### Programming & Tools
+<div align="center">
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=postgresql&logoColor=white) ![R](https://img.shields.io/badge/R-276DC3?style=flat&logo=r&logoColor=white) ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+
+</div>
 
 ## 📬 Let's Connect
 
